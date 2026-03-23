@@ -1,0 +1,3396 @@
+date,district_encoded,true_label,predicted_label
+2016-06-01,0,No Drought,No Drought
+2016-07-01,0,No Drought,No Drought
+2016-08-01,0,No Drought,No Drought
+2016-09-01,0,Extreme,Extreme
+2016-10-01,0,Extreme,Extreme
+2016-11-01,0,Extreme,Extreme
+2016-12-01,0,Extreme,Extreme
+2017-01-01,0,Extreme,Extreme
+2017-02-01,0,No Drought,No Drought
+2017-03-01,0,No Drought,No Drought
+2017-04-01,0,No Drought,No Drought
+2017-05-01,0,No Drought,No Drought
+2017-06-01,0,No Drought,No Drought
+2017-07-01,0,No Drought,No Drought
+2017-08-01,0,No Drought,No Drought
+2017-09-01,0,Extreme,Extreme
+2017-10-01,0,Extreme,Extreme
+2017-11-01,0,Extreme,Extreme
+2017-12-01,0,Extreme,Extreme
+2018-01-01,0,Extreme,Extreme
+2018-02-01,0,No Drought,No Drought
+2018-03-01,0,No Drought,No Drought
+2018-04-01,0,No Drought,No Drought
+2018-05-01,0,No Drought,No Drought
+2018-06-01,0,No Drought,No Drought
+2018-07-01,0,No Drought,No Drought
+2018-08-01,0,Moderate,No Drought
+2018-09-01,0,Extreme,Extreme
+2018-10-01,0,Extreme,Extreme
+2018-11-01,0,Extreme,Extreme
+2018-12-01,0,Extreme,Extreme
+2019-01-01,0,Extreme,Extreme
+2019-02-01,0,No Drought,No Drought
+2019-03-01,0,No Drought,No Drought
+2019-04-01,0,No Drought,No Drought
+2019-05-01,0,No Drought,No Drought
+2019-06-01,0,No Drought,No Drought
+2019-07-01,0,No Drought,No Drought
+2019-08-01,0,No Drought,No Drought
+2019-09-01,0,Extreme,Extreme
+2019-10-01,0,Extreme,Extreme
+2019-11-01,0,Extreme,Extreme
+2019-12-01,0,Extreme,Extreme
+2020-01-01,0,Moderate,No Drought
+2020-02-01,0,No Drought,No Drought
+2020-03-01,0,No Drought,No Drought
+2020-04-01,0,No Drought,No Drought
+2020-05-01,0,No Drought,No Drought
+2020-06-01,0,No Drought,No Drought
+2020-07-01,0,No Drought,No Drought
+2020-08-01,0,No Drought,No Drought
+2020-09-01,0,Extreme,Extreme
+2020-10-01,0,Extreme,Extreme
+2020-11-01,0,Extreme,Extreme
+2020-12-01,0,Extreme,Extreme
+2021-01-01,0,No Drought,No Drought
+2021-02-01,0,No Drought,No Drought
+2021-03-01,0,No Drought,No Drought
+2021-04-01,0,No Drought,No Drought
+2021-05-01,0,No Drought,No Drought
+2021-06-01,0,No Drought,No Drought
+2021-07-01,0,No Drought,No Drought
+2021-08-01,0,No Drought,No Drought
+2021-09-01,0,Extreme,Extreme
+2021-10-01,0,Extreme,Extreme
+2021-11-01,0,Extreme,Extreme
+2021-12-01,0,Extreme,Extreme
+2022-01-01,0,Extreme,Moderate
+2022-02-01,0,No Drought,No Drought
+2022-03-01,0,No Drought,No Drought
+2022-04-01,0,No Drought,No Drought
+2022-05-01,0,No Drought,No Drought
+2022-06-01,0,No Drought,No Drought
+2022-07-01,0,No Drought,No Drought
+2022-08-01,0,No Drought,No Drought
+2022-09-01,0,Extreme,Extreme
+2022-10-01,0,Extreme,Extreme
+2022-11-01,0,Extreme,Extreme
+2022-12-01,0,Extreme,Extreme
+2023-01-01,0,Moderate,No Drought
+2023-02-01,0,No Drought,No Drought
+2023-03-01,0,No Drought,No Drought
+2023-04-01,0,No Drought,No Drought
+2023-05-01,0,No Drought,No Drought
+2023-06-01,0,No Drought,No Drought
+2023-07-01,0,No Drought,No Drought
+2023-08-01,0,No Drought,No Drought
+2023-09-01,0,No Drought,No Drought
+2023-10-01,0,Extreme,Extreme
+2023-11-01,0,Extreme,Extreme
+2023-12-01,0,Extreme,Extreme
+2024-01-01,0,Moderate,Extreme
+2024-02-01,0,No Drought,No Drought
+2024-03-01,0,No Drought,No Drought
+2024-04-01,0,No Drought,No Drought
+2024-05-01,0,No Drought,No Drought
+2024-06-01,0,No Drought,No Drought
+2016-06-01,1,No Drought,No Drought
+2016-07-01,1,No Drought,No Drought
+2016-08-01,1,No Drought,No Drought
+2016-09-01,1,Extreme,Extreme
+2016-10-01,1,Extreme,Extreme
+2016-11-01,1,Extreme,Extreme
+2016-12-01,1,Extreme,Moderate
+2017-01-01,1,Moderate,No Drought
+2017-02-01,1,No Drought,No Drought
+2017-03-01,1,No Drought,No Drought
+2017-04-01,1,No Drought,No Drought
+2017-05-01,1,No Drought,No Drought
+2017-06-01,1,No Drought,No Drought
+2017-07-01,1,No Drought,No Drought
+2017-08-01,1,Moderate,No Drought
+2017-09-01,1,Extreme,Extreme
+2017-10-01,1,Moderate,Extreme
+2017-11-01,1,No Drought,Extreme
+2017-12-01,1,No Drought,Moderate
+2018-01-01,1,No Drought,No Drought
+2018-02-01,1,No Drought,No Drought
+2018-03-01,1,No Drought,No Drought
+2018-04-01,1,No Drought,No Drought
+2018-05-01,1,No Drought,No Drought
+2018-06-01,1,No Drought,No Drought
+2018-07-01,1,No Drought,No Drought
+2018-08-01,1,Extreme,No Drought
+2018-09-01,1,Moderate,Extreme
+2018-10-01,1,Extreme,Extreme
+2018-11-01,1,Extreme,Extreme
+2018-12-01,1,Moderate,Moderate
+2019-01-01,1,Moderate,No Drought
+2019-02-01,1,No Drought,No Drought
+2019-03-01,1,No Drought,No Drought
+2019-04-01,1,No Drought,No Drought
+2019-05-01,1,No Drought,No Drought
+2019-06-01,1,No Drought,No Drought
+2019-07-01,1,No Drought,No Drought
+2019-08-01,1,No Drought,No Drought
+2019-09-01,1,Extreme,Extreme
+2019-10-01,1,Extreme,Extreme
+2019-11-01,1,Extreme,Extreme
+2019-12-01,1,Moderate,Moderate
+2020-01-01,1,No Drought,No Drought
+2020-02-01,1,No Drought,No Drought
+2020-03-01,1,No Drought,No Drought
+2020-04-01,1,No Drought,No Drought
+2020-05-01,1,No Drought,No Drought
+2020-06-01,1,No Drought,No Drought
+2020-07-01,1,No Drought,No Drought
+2020-08-01,1,No Drought,No Drought
+2020-09-01,1,Extreme,Extreme
+2020-10-01,1,Extreme,Extreme
+2020-11-01,1,Extreme,Extreme
+2020-12-01,1,Moderate,Moderate
+2021-01-01,1,No Drought,No Drought
+2021-02-01,1,No Drought,No Drought
+2021-03-01,1,No Drought,No Drought
+2021-04-01,1,No Drought,No Drought
+2021-05-01,1,No Drought,No Drought
+2021-06-01,1,No Drought,No Drought
+2021-07-01,1,No Drought,No Drought
+2021-08-01,1,No Drought,No Drought
+2021-09-01,1,Extreme,Extreme
+2021-10-01,1,Moderate,Extreme
+2021-11-01,1,Extreme,Extreme
+2021-12-01,1,Extreme,Moderate
+2022-01-01,1,Extreme,No Drought
+2022-02-01,1,No Drought,No Drought
+2022-03-01,1,No Drought,No Drought
+2022-04-01,1,No Drought,No Drought
+2022-05-01,1,No Drought,No Drought
+2022-06-01,1,No Drought,No Drought
+2022-07-01,1,No Drought,No Drought
+2022-08-01,1,No Drought,No Drought
+2022-09-01,1,Extreme,Extreme
+2022-10-01,1,Extreme,Extreme
+2022-11-01,1,Extreme,Extreme
+2022-12-01,1,No Drought,Moderate
+2023-01-01,1,No Drought,No Drought
+2023-02-01,1,No Drought,No Drought
+2023-03-01,1,No Drought,No Drought
+2023-04-01,1,No Drought,No Drought
+2023-05-01,1,No Drought,No Drought
+2023-06-01,1,No Drought,No Drought
+2023-07-01,1,No Drought,No Drought
+2023-08-01,1,No Drought,No Drought
+2023-09-01,1,No Drought,Extreme
+2023-10-01,1,Moderate,Extreme
+2023-11-01,1,Extreme,Extreme
+2023-12-01,1,Extreme,Extreme
+2024-01-01,1,Moderate,Moderate
+2024-02-01,1,No Drought,No Drought
+2024-03-01,1,No Drought,No Drought
+2024-04-01,1,No Drought,No Drought
+2024-05-01,1,No Drought,No Drought
+2024-06-01,1,No Drought,No Drought
+2016-06-01,2,No Drought,No Drought
+2016-07-01,2,No Drought,No Drought
+2016-08-01,2,Moderate,Extreme
+2016-09-01,2,Extreme,Extreme
+2016-10-01,2,Extreme,Moderate
+2016-11-01,2,Moderate,Moderate
+2016-12-01,2,Moderate,No Drought
+2017-01-01,2,Moderate,No Drought
+2017-02-01,2,No Drought,No Drought
+2017-03-01,2,No Drought,No Drought
+2017-04-01,2,No Drought,No Drought
+2017-05-01,2,No Drought,No Drought
+2017-06-01,2,No Drought,No Drought
+2017-07-01,2,No Drought,No Drought
+2017-08-01,2,Moderate,No Drought
+2017-09-01,2,Extreme,Extreme
+2017-10-01,2,Moderate,Extreme
+2017-11-01,2,No Drought,Moderate
+2017-12-01,2,No Drought,No Drought
+2018-01-01,2,No Drought,No Drought
+2018-02-01,2,No Drought,No Drought
+2018-03-01,2,No Drought,No Drought
+2018-04-01,2,No Drought,No Drought
+2018-05-01,2,No Drought,No Drought
+2018-06-01,2,No Drought,No Drought
+2018-07-01,2,No Drought,No Drought
+2018-08-01,2,Extreme,No Drought
+2018-09-01,2,Moderate,Extreme
+2018-10-01,2,Moderate,Moderate
+2018-11-01,2,Moderate,Moderate
+2018-12-01,2,Moderate,No Drought
+2019-01-01,2,Moderate,No Drought
+2019-02-01,2,No Drought,No Drought
+2019-03-01,2,No Drought,No Drought
+2019-04-01,2,No Drought,No Drought
+2019-05-01,2,No Drought,No Drought
+2019-06-01,2,No Drought,No Drought
+2019-07-01,2,No Drought,No Drought
+2019-08-01,2,Extreme,No Drought
+2019-09-01,2,Extreme,Extreme
+2019-10-01,2,Extreme,Extreme
+2019-11-01,2,Moderate,Moderate
+2019-12-01,2,Moderate,No Drought
+2020-01-01,2,No Drought,No Drought
+2020-02-01,2,No Drought,No Drought
+2020-03-01,2,No Drought,No Drought
+2020-04-01,2,No Drought,No Drought
+2020-05-01,2,No Drought,No Drought
+2020-06-01,2,No Drought,No Drought
+2020-07-01,2,No Drought,No Drought
+2020-08-01,2,No Drought,No Drought
+2020-09-01,2,Extreme,Extreme
+2020-10-01,2,Extreme,Extreme
+2020-11-01,2,Moderate,Moderate
+2020-12-01,2,No Drought,No Drought
+2021-01-01,2,No Drought,No Drought
+2021-02-01,2,No Drought,No Drought
+2021-03-01,2,No Drought,No Drought
+2021-04-01,2,No Drought,No Drought
+2021-05-01,2,No Drought,No Drought
+2021-06-01,2,No Drought,No Drought
+2021-07-01,2,No Drought,No Drought
+2021-08-01,2,No Drought,No Drought
+2021-09-01,2,Extreme,Extreme
+2021-10-01,2,Moderate,Moderate
+2021-11-01,2,Moderate,Moderate
+2021-12-01,2,Moderate,No Drought
+2022-01-01,2,Moderate,No Drought
+2022-02-01,2,No Drought,No Drought
+2022-03-01,2,No Drought,No Drought
+2022-04-01,2,No Drought,No Drought
+2022-05-01,2,No Drought,No Drought
+2022-06-01,2,No Drought,No Drought
+2022-07-01,2,No Drought,No Drought
+2022-08-01,2,No Drought,No Drought
+2022-09-01,2,Extreme,Extreme
+2022-10-01,2,Extreme,Extreme
+2022-11-01,2,Moderate,Moderate
+2022-12-01,2,No Drought,No Drought
+2023-01-01,2,No Drought,No Drought
+2023-02-01,2,No Drought,No Drought
+2023-03-01,2,No Drought,No Drought
+2023-04-01,2,No Drought,No Drought
+2023-05-01,2,No Drought,No Drought
+2023-06-01,2,No Drought,No Drought
+2023-07-01,2,No Drought,No Drought
+2023-08-01,2,No Drought,No Drought
+2023-09-01,2,No Drought,Extreme
+2023-10-01,2,Moderate,Extreme
+2023-11-01,2,Moderate,Moderate
+2023-12-01,2,No Drought,No Drought
+2024-01-01,2,No Drought,No Drought
+2024-02-01,2,No Drought,No Drought
+2024-03-01,2,No Drought,No Drought
+2024-04-01,2,No Drought,No Drought
+2024-05-01,2,No Drought,No Drought
+2024-06-01,2,No Drought,No Drought
+2016-06-01,3,No Drought,No Drought
+2016-07-01,3,No Drought,No Drought
+2016-08-01,3,No Drought,No Drought
+2016-09-01,3,Extreme,Extreme
+2016-10-01,3,Extreme,Extreme
+2016-11-01,3,Extreme,Extreme
+2016-12-01,3,Extreme,Extreme
+2017-01-01,3,Extreme,Extreme
+2017-02-01,3,No Drought,No Drought
+2017-03-01,3,No Drought,No Drought
+2017-04-01,3,No Drought,No Drought
+2017-05-01,3,No Drought,No Drought
+2017-06-01,3,No Drought,No Drought
+2017-07-01,3,No Drought,No Drought
+2017-08-01,3,No Drought,No Drought
+2017-09-01,3,Extreme,Extreme
+2017-10-01,3,Extreme,Extreme
+2017-11-01,3,Extreme,Extreme
+2017-12-01,3,Extreme,Extreme
+2018-01-01,3,Extreme,Extreme
+2018-02-01,3,No Drought,No Drought
+2018-03-01,3,No Drought,No Drought
+2018-04-01,3,No Drought,No Drought
+2018-05-01,3,No Drought,No Drought
+2018-06-01,3,No Drought,No Drought
+2018-07-01,3,No Drought,No Drought
+2018-08-01,3,Extreme,No Drought
+2018-09-01,3,Moderate,Extreme
+2018-10-01,3,Extreme,Extreme
+2018-11-01,3,Extreme,Extreme
+2018-12-01,3,Extreme,Extreme
+2019-01-01,3,Extreme,Extreme
+2019-02-01,3,No Drought,No Drought
+2019-03-01,3,No Drought,No Drought
+2019-04-01,3,No Drought,No Drought
+2019-05-01,3,No Drought,No Drought
+2019-06-01,3,No Drought,No Drought
+2019-07-01,3,No Drought,No Drought
+2019-08-01,3,No Drought,No Drought
+2019-09-01,3,Extreme,Extreme
+2019-10-01,3,Extreme,Extreme
+2019-11-01,3,Extreme,Extreme
+2019-12-01,3,Extreme,Extreme
+2020-01-01,3,Moderate,No Drought
+2020-02-01,3,No Drought,No Drought
+2020-03-01,3,No Drought,No Drought
+2020-04-01,3,No Drought,No Drought
+2020-05-01,3,No Drought,No Drought
+2020-06-01,3,No Drought,No Drought
+2020-07-01,3,No Drought,No Drought
+2020-08-01,3,No Drought,No Drought
+2020-09-01,3,Extreme,Extreme
+2020-10-01,3,Extreme,Extreme
+2020-11-01,3,Extreme,Extreme
+2020-12-01,3,Extreme,Extreme
+2021-01-01,3,No Drought,No Drought
+2021-02-01,3,No Drought,No Drought
+2021-03-01,3,No Drought,No Drought
+2021-04-01,3,No Drought,No Drought
+2021-05-01,3,No Drought,No Drought
+2021-06-01,3,No Drought,No Drought
+2021-07-01,3,No Drought,No Drought
+2021-08-01,3,No Drought,No Drought
+2021-09-01,3,Extreme,Extreme
+2021-10-01,3,Extreme,Extreme
+2021-11-01,3,Extreme,Extreme
+2021-12-01,3,Extreme,Extreme
+2022-01-01,3,Extreme,No Drought
+2022-02-01,3,No Drought,No Drought
+2022-03-01,3,No Drought,No Drought
+2022-04-01,3,No Drought,No Drought
+2022-05-01,3,No Drought,No Drought
+2022-06-01,3,No Drought,No Drought
+2022-07-01,3,No Drought,No Drought
+2022-08-01,3,No Drought,No Drought
+2022-09-01,3,Extreme,Extreme
+2022-10-01,3,Extreme,Extreme
+2022-11-01,3,Extreme,Extreme
+2022-12-01,3,Moderate,Extreme
+2023-01-01,3,Moderate,No Drought
+2023-02-01,3,No Drought,No Drought
+2023-03-01,3,No Drought,No Drought
+2023-04-01,3,No Drought,No Drought
+2023-05-01,3,No Drought,No Drought
+2023-06-01,3,No Drought,No Drought
+2023-07-01,3,No Drought,No Drought
+2023-08-01,3,No Drought,No Drought
+2023-09-01,3,No Drought,No Drought
+2023-10-01,3,Extreme,Extreme
+2023-11-01,3,Extreme,Extreme
+2023-12-01,3,Extreme,Extreme
+2024-01-01,3,Extreme,Extreme
+2024-02-01,3,No Drought,No Drought
+2024-03-01,3,No Drought,No Drought
+2024-04-01,3,No Drought,No Drought
+2024-05-01,3,No Drought,No Drought
+2024-06-01,3,No Drought,No Drought
+2016-06-01,4,No Drought,No Drought
+2016-07-01,4,No Drought,No Drought
+2016-08-01,4,Moderate,No Drought
+2016-09-01,4,Extreme,Extreme
+2016-10-01,4,Extreme,Extreme
+2016-11-01,4,Moderate,Moderate
+2016-12-01,4,Moderate,Moderate
+2017-01-01,4,Moderate,No Drought
+2017-02-01,4,No Drought,No Drought
+2017-03-01,4,No Drought,No Drought
+2017-04-01,4,No Drought,No Drought
+2017-05-01,4,No Drought,No Drought
+2017-06-01,4,No Drought,No Drought
+2017-07-01,4,No Drought,No Drought
+2017-08-01,4,No Drought,No Drought
+2017-09-01,4,Extreme,Extreme
+2017-10-01,4,Moderate,Moderate
+2017-11-01,4,Moderate,Moderate
+2017-12-01,4,No Drought,No Drought
+2018-01-01,4,No Drought,No Drought
+2018-02-01,4,No Drought,No Drought
+2018-03-01,4,No Drought,No Drought
+2018-04-01,4,No Drought,No Drought
+2018-05-01,4,No Drought,No Drought
+2018-06-01,4,No Drought,No Drought
+2018-07-01,4,No Drought,No Drought
+2018-08-01,4,Extreme,Extreme
+2018-09-01,4,Extreme,Extreme
+2018-10-01,4,Moderate,Moderate
+2018-11-01,4,Moderate,Moderate
+2018-12-01,4,No Drought,No Drought
+2019-01-01,4,No Drought,No Drought
+2019-02-01,4,No Drought,No Drought
+2019-03-01,4,No Drought,No Drought
+2019-04-01,4,No Drought,No Drought
+2019-05-01,4,No Drought,No Drought
+2019-06-01,4,No Drought,No Drought
+2019-07-01,4,No Drought,No Drought
+2019-08-01,4,Moderate,Moderate
+2019-09-01,4,Extreme,Extreme
+2019-10-01,4,Extreme,Extreme
+2019-11-01,4,No Drought,Moderate
+2019-12-01,4,No Drought,No Drought
+2020-01-01,4,No Drought,No Drought
+2020-02-01,4,No Drought,No Drought
+2020-03-01,4,No Drought,No Drought
+2020-04-01,4,No Drought,No Drought
+2020-05-01,4,No Drought,No Drought
+2020-06-01,4,No Drought,No Drought
+2020-07-01,4,No Drought,No Drought
+2020-08-01,4,No Drought,No Drought
+2020-09-01,4,Extreme,Extreme
+2020-10-01,4,Extreme,Extreme
+2020-11-01,4,Moderate,Moderate
+2020-12-01,4,No Drought,No Drought
+2021-01-01,4,No Drought,No Drought
+2021-02-01,4,No Drought,No Drought
+2021-03-01,4,No Drought,No Drought
+2021-04-01,4,No Drought,No Drought
+2021-05-01,4,No Drought,No Drought
+2021-06-01,4,No Drought,No Drought
+2021-07-01,4,No Drought,No Drought
+2021-08-01,4,Moderate,Extreme
+2021-09-01,4,Extreme,Extreme
+2021-10-01,4,Moderate,Moderate
+2021-11-01,4,No Drought,Moderate
+2021-12-01,4,Moderate,No Drought
+2022-01-01,4,No Drought,No Drought
+2022-02-01,4,No Drought,No Drought
+2022-03-01,4,No Drought,No Drought
+2022-04-01,4,No Drought,No Drought
+2022-05-01,4,No Drought,No Drought
+2022-06-01,4,No Drought,No Drought
+2022-07-01,4,No Drought,No Drought
+2022-08-01,4,No Drought,No Drought
+2022-09-01,4,Extreme,Extreme
+2022-10-01,4,Extreme,Extreme
+2022-11-01,4,Moderate,Moderate
+2022-12-01,4,No Drought,No Drought
+2023-01-01,4,No Drought,No Drought
+2023-02-01,4,No Drought,No Drought
+2023-03-01,4,No Drought,No Drought
+2023-04-01,4,No Drought,No Drought
+2023-05-01,4,No Drought,No Drought
+2023-06-01,4,No Drought,No Drought
+2023-07-01,4,No Drought,No Drought
+2023-08-01,4,Moderate,No Drought
+2023-09-01,4,Moderate,Extreme
+2023-10-01,4,Moderate,Extreme
+2023-11-01,4,No Drought,Moderate
+2023-12-01,4,No Drought,No Drought
+2024-01-01,4,No Drought,No Drought
+2024-02-01,4,No Drought,No Drought
+2024-03-01,4,No Drought,No Drought
+2024-04-01,4,No Drought,No Drought
+2024-05-01,4,No Drought,No Drought
+2024-06-01,4,No Drought,No Drought
+2016-06-01,5,No Drought,No Drought
+2016-07-01,5,No Drought,No Drought
+2016-08-01,5,No Drought,No Drought
+2016-09-01,5,Extreme,Extreme
+2016-10-01,5,Extreme,Extreme
+2016-11-01,5,Extreme,Extreme
+2016-12-01,5,Extreme,Extreme
+2017-01-01,5,Extreme,Extreme
+2017-02-01,5,No Drought,No Drought
+2017-03-01,5,No Drought,No Drought
+2017-04-01,5,No Drought,No Drought
+2017-05-01,5,No Drought,No Drought
+2017-06-01,5,No Drought,No Drought
+2017-07-01,5,No Drought,No Drought
+2017-08-01,5,No Drought,No Drought
+2017-09-01,5,Extreme,Extreme
+2017-10-01,5,Extreme,Extreme
+2017-11-01,5,Extreme,Extreme
+2017-12-01,5,Extreme,Extreme
+2018-01-01,5,Moderate,No Drought
+2018-02-01,5,No Drought,No Drought
+2018-03-01,5,No Drought,No Drought
+2018-04-01,5,No Drought,No Drought
+2018-05-01,5,No Drought,No Drought
+2018-06-01,5,No Drought,No Drought
+2018-07-01,5,No Drought,No Drought
+2018-08-01,5,Moderate,No Drought
+2018-09-01,5,Extreme,Extreme
+2018-10-01,5,Extreme,Extreme
+2018-11-01,5,Extreme,Extreme
+2018-12-01,5,Extreme,Extreme
+2019-01-01,5,Moderate,Extreme
+2019-02-01,5,No Drought,No Drought
+2019-03-01,5,No Drought,No Drought
+2019-04-01,5,No Drought,No Drought
+2019-05-01,5,No Drought,No Drought
+2019-06-01,5,No Drought,No Drought
+2019-07-01,5,No Drought,No Drought
+2019-08-01,5,No Drought,No Drought
+2019-09-01,5,Extreme,Extreme
+2019-10-01,5,Extreme,Extreme
+2019-11-01,5,Extreme,Extreme
+2019-12-01,5,Extreme,Extreme
+2020-01-01,5,No Drought,No Drought
+2020-02-01,5,No Drought,No Drought
+2020-03-01,5,No Drought,No Drought
+2020-04-01,5,No Drought,No Drought
+2020-05-01,5,No Drought,No Drought
+2020-06-01,5,No Drought,No Drought
+2020-07-01,5,No Drought,No Drought
+2020-08-01,5,No Drought,No Drought
+2020-09-01,5,Extreme,Extreme
+2020-10-01,5,Extreme,Extreme
+2020-11-01,5,Extreme,Extreme
+2020-12-01,5,Extreme,Extreme
+2021-01-01,5,No Drought,No Drought
+2021-02-01,5,No Drought,No Drought
+2021-03-01,5,No Drought,No Drought
+2021-04-01,5,No Drought,No Drought
+2021-05-01,5,No Drought,No Drought
+2021-06-01,5,No Drought,No Drought
+2021-07-01,5,No Drought,No Drought
+2021-08-01,5,No Drought,No Drought
+2021-09-01,5,Extreme,Extreme
+2021-10-01,5,Extreme,Extreme
+2021-11-01,5,Extreme,Extreme
+2021-12-01,5,Extreme,Extreme
+2022-01-01,5,Moderate,No Drought
+2022-02-01,5,No Drought,No Drought
+2022-03-01,5,No Drought,No Drought
+2022-04-01,5,No Drought,No Drought
+2022-05-01,5,No Drought,No Drought
+2022-06-01,5,No Drought,No Drought
+2022-07-01,5,No Drought,No Drought
+2022-08-01,5,No Drought,No Drought
+2022-09-01,5,Extreme,Extreme
+2022-10-01,5,Extreme,Extreme
+2022-11-01,5,Extreme,Extreme
+2022-12-01,5,Moderate,Extreme
+2023-01-01,5,No Drought,No Drought
+2023-02-01,5,No Drought,No Drought
+2023-03-01,5,No Drought,No Drought
+2023-04-01,5,No Drought,No Drought
+2023-05-01,5,No Drought,No Drought
+2023-06-01,5,No Drought,No Drought
+2023-07-01,5,No Drought,No Drought
+2023-08-01,5,No Drought,No Drought
+2023-09-01,5,No Drought,No Drought
+2023-10-01,5,Extreme,Extreme
+2023-11-01,5,Extreme,Extreme
+2023-12-01,5,Extreme,Extreme
+2024-01-01,5,Moderate,Extreme
+2024-02-01,5,No Drought,No Drought
+2024-03-01,5,No Drought,No Drought
+2024-04-01,5,No Drought,No Drought
+2024-05-01,5,No Drought,No Drought
+2024-06-01,5,No Drought,No Drought
+2016-06-01,6,No Drought,No Drought
+2016-07-01,6,No Drought,No Drought
+2016-08-01,6,No Drought,No Drought
+2016-09-01,6,Extreme,Extreme
+2016-10-01,6,Extreme,Extreme
+2016-11-01,6,Extreme,Extreme
+2016-12-01,6,Extreme,Extreme
+2017-01-01,6,Moderate,No Drought
+2017-02-01,6,No Drought,No Drought
+2017-03-01,6,No Drought,No Drought
+2017-04-01,6,No Drought,No Drought
+2017-05-01,6,No Drought,No Drought
+2017-06-01,6,No Drought,No Drought
+2017-07-01,6,No Drought,No Drought
+2017-08-01,6,No Drought,No Drought
+2017-09-01,6,Extreme,Extreme
+2017-10-01,6,Extreme,Extreme
+2017-11-01,6,Moderate,Extreme
+2017-12-01,6,Moderate,Extreme
+2018-01-01,6,Moderate,No Drought
+2018-02-01,6,No Drought,No Drought
+2018-03-01,6,No Drought,No Drought
+2018-04-01,6,No Drought,No Drought
+2018-05-01,6,No Drought,No Drought
+2018-06-01,6,No Drought,No Drought
+2018-07-01,6,No Drought,No Drought
+2018-08-01,6,Moderate,No Drought
+2018-09-01,6,Moderate,Extreme
+2018-10-01,6,Extreme,Extreme
+2018-11-01,6,Extreme,Extreme
+2018-12-01,6,Extreme,Extreme
+2019-01-01,6,Moderate,Moderate
+2019-02-01,6,No Drought,No Drought
+2019-03-01,6,No Drought,No Drought
+2019-04-01,6,No Drought,No Drought
+2019-05-01,6,No Drought,No Drought
+2019-06-01,6,No Drought,No Drought
+2019-07-01,6,No Drought,No Drought
+2019-08-01,6,No Drought,No Drought
+2019-09-01,6,Extreme,Extreme
+2019-10-01,6,Extreme,Extreme
+2019-11-01,6,Extreme,Extreme
+2019-12-01,6,Extreme,Extreme
+2020-01-01,6,No Drought,No Drought
+2020-02-01,6,No Drought,No Drought
+2020-03-01,6,No Drought,No Drought
+2020-04-01,6,No Drought,No Drought
+2020-05-01,6,No Drought,No Drought
+2020-06-01,6,No Drought,No Drought
+2020-07-01,6,No Drought,No Drought
+2020-08-01,6,No Drought,No Drought
+2020-09-01,6,Extreme,Extreme
+2020-10-01,6,Extreme,Extreme
+2020-11-01,6,Extreme,Extreme
+2020-12-01,6,Extreme,Moderate
+2021-01-01,6,No Drought,No Drought
+2021-02-01,6,No Drought,No Drought
+2021-03-01,6,No Drought,No Drought
+2021-04-01,6,No Drought,No Drought
+2021-05-01,6,No Drought,No Drought
+2021-06-01,6,No Drought,No Drought
+2021-07-01,6,No Drought,No Drought
+2021-08-01,6,No Drought,No Drought
+2021-09-01,6,Extreme,Extreme
+2021-10-01,6,Extreme,Extreme
+2021-11-01,6,Extreme,Extreme
+2021-12-01,6,Extreme,Extreme
+2022-01-01,6,Moderate,No Drought
+2022-02-01,6,No Drought,No Drought
+2022-03-01,6,No Drought,No Drought
+2022-04-01,6,No Drought,No Drought
+2022-05-01,6,No Drought,No Drought
+2022-06-01,6,No Drought,No Drought
+2022-07-01,6,No Drought,No Drought
+2022-08-01,6,No Drought,No Drought
+2022-09-01,6,Extreme,Extreme
+2022-10-01,6,Extreme,Extreme
+2022-11-01,6,Extreme,Extreme
+2022-12-01,6,Moderate,Extreme
+2023-01-01,6,No Drought,No Drought
+2023-02-01,6,No Drought,No Drought
+2023-03-01,6,No Drought,No Drought
+2023-04-01,6,No Drought,No Drought
+2023-05-01,6,No Drought,No Drought
+2023-06-01,6,No Drought,No Drought
+2023-07-01,6,No Drought,No Drought
+2023-08-01,6,No Drought,No Drought
+2023-09-01,6,No Drought,Extreme
+2023-10-01,6,Extreme,Extreme
+2023-11-01,6,Extreme,Extreme
+2023-12-01,6,Extreme,Extreme
+2024-01-01,6,Extreme,Extreme
+2024-02-01,6,No Drought,No Drought
+2024-03-01,6,No Drought,No Drought
+2024-04-01,6,No Drought,No Drought
+2024-05-01,6,No Drought,No Drought
+2024-06-01,6,No Drought,No Drought
+2016-06-01,7,No Drought,No Drought
+2016-07-01,7,No Drought,No Drought
+2016-08-01,7,Moderate,No Drought
+2016-09-01,7,Extreme,Extreme
+2016-10-01,7,Extreme,Extreme
+2016-11-01,7,Moderate,Moderate
+2016-12-01,7,Moderate,Moderate
+2017-01-01,7,Moderate,No Drought
+2017-02-01,7,No Drought,No Drought
+2017-03-01,7,No Drought,No Drought
+2017-04-01,7,No Drought,No Drought
+2017-05-01,7,No Drought,No Drought
+2017-06-01,7,No Drought,No Drought
+2017-07-01,7,No Drought,No Drought
+2017-08-01,7,No Drought,No Drought
+2017-09-01,7,Extreme,Extreme
+2017-10-01,7,Extreme,Extreme
+2017-11-01,7,Moderate,Moderate
+2017-12-01,7,No Drought,No Drought
+2018-01-01,7,No Drought,No Drought
+2018-02-01,7,No Drought,No Drought
+2018-03-01,7,No Drought,No Drought
+2018-04-01,7,No Drought,No Drought
+2018-05-01,7,No Drought,No Drought
+2018-06-01,7,No Drought,No Drought
+2018-07-01,7,No Drought,No Drought
+2018-08-01,7,Extreme,No Drought
+2018-09-01,7,Extreme,Extreme
+2018-10-01,7,Extreme,Extreme
+2018-11-01,7,Moderate,Moderate
+2018-12-01,7,Moderate,Moderate
+2019-01-01,7,Moderate,No Drought
+2019-02-01,7,No Drought,No Drought
+2019-03-01,7,No Drought,No Drought
+2019-04-01,7,No Drought,No Drought
+2019-05-01,7,No Drought,No Drought
+2019-06-01,7,No Drought,No Drought
+2019-07-01,7,No Drought,No Drought
+2019-08-01,7,No Drought,No Drought
+2019-09-01,7,Extreme,Extreme
+2019-10-01,7,Extreme,Extreme
+2019-11-01,7,No Drought,Moderate
+2019-12-01,7,No Drought,No Drought
+2020-01-01,7,No Drought,No Drought
+2020-02-01,7,No Drought,No Drought
+2020-03-01,7,No Drought,No Drought
+2020-04-01,7,No Drought,No Drought
+2020-05-01,7,No Drought,No Drought
+2020-06-01,7,No Drought,No Drought
+2020-07-01,7,No Drought,No Drought
+2020-08-01,7,No Drought,No Drought
+2020-09-01,7,Extreme,Extreme
+2020-10-01,7,Extreme,Extreme
+2020-11-01,7,Moderate,Moderate
+2020-12-01,7,Moderate,No Drought
+2021-01-01,7,No Drought,No Drought
+2021-02-01,7,No Drought,No Drought
+2021-03-01,7,No Drought,No Drought
+2021-04-01,7,No Drought,No Drought
+2021-05-01,7,No Drought,No Drought
+2021-06-01,7,No Drought,No Drought
+2021-07-01,7,No Drought,No Drought
+2021-08-01,7,No Drought,No Drought
+2021-09-01,7,Extreme,Extreme
+2021-10-01,7,Extreme,Extreme
+2021-11-01,7,Moderate,Moderate
+2021-12-01,7,Moderate,Moderate
+2022-01-01,7,Moderate,No Drought
+2022-02-01,7,No Drought,No Drought
+2022-03-01,7,No Drought,No Drought
+2022-04-01,7,No Drought,No Drought
+2022-05-01,7,No Drought,No Drought
+2022-06-01,7,No Drought,No Drought
+2022-07-01,7,No Drought,No Drought
+2022-08-01,7,No Drought,No Drought
+2022-09-01,7,Extreme,Extreme
+2022-10-01,7,Extreme,Extreme
+2022-11-01,7,Moderate,Moderate
+2022-12-01,7,No Drought,No Drought
+2023-01-01,7,No Drought,No Drought
+2023-02-01,7,No Drought,No Drought
+2023-03-01,7,No Drought,No Drought
+2023-04-01,7,No Drought,No Drought
+2023-05-01,7,No Drought,No Drought
+2023-06-01,7,No Drought,No Drought
+2023-07-01,7,No Drought,No Drought
+2023-08-01,7,Moderate,No Drought
+2023-09-01,7,Extreme,Extreme
+2023-10-01,7,Extreme,Extreme
+2023-11-01,7,Moderate,Moderate
+2023-12-01,7,No Drought,No Drought
+2024-01-01,7,No Drought,No Drought
+2024-02-01,7,No Drought,No Drought
+2024-03-01,7,No Drought,No Drought
+2024-04-01,7,No Drought,No Drought
+2024-05-01,7,No Drought,No Drought
+2024-06-01,7,No Drought,No Drought
+2016-06-01,8,No Drought,No Drought
+2016-07-01,8,No Drought,No Drought
+2016-08-01,8,Moderate,No Drought
+2016-09-01,8,Extreme,Extreme
+2016-10-01,8,Extreme,Extreme
+2016-11-01,8,Extreme,Extreme
+2016-12-01,8,Extreme,Extreme
+2017-01-01,8,Extreme,Extreme
+2017-02-01,8,No Drought,No Drought
+2017-03-01,8,No Drought,No Drought
+2017-04-01,8,No Drought,No Drought
+2017-05-01,8,No Drought,No Drought
+2017-06-01,8,No Drought,No Drought
+2017-07-01,8,No Drought,No Drought
+2017-08-01,8,Moderate,Extreme
+2017-09-01,8,Extreme,Extreme
+2017-10-01,8,Extreme,Extreme
+2017-11-01,8,Extreme,Extreme
+2017-12-01,8,Extreme,Extreme
+2018-01-01,8,Extreme,Extreme
+2018-02-01,8,No Drought,No Drought
+2018-03-01,8,No Drought,No Drought
+2018-04-01,8,No Drought,No Drought
+2018-05-01,8,No Drought,No Drought
+2018-06-01,8,No Drought,No Drought
+2018-07-01,8,No Drought,No Drought
+2018-08-01,8,Extreme,Extreme
+2018-09-01,8,Extreme,Extreme
+2018-10-01,8,Extreme,Extreme
+2018-11-01,8,Extreme,Extreme
+2018-12-01,8,Extreme,Extreme
+2019-01-01,8,Extreme,Extreme
+2019-02-01,8,No Drought,No Drought
+2019-03-01,8,No Drought,No Drought
+2019-04-01,8,No Drought,No Drought
+2019-05-01,8,No Drought,No Drought
+2019-06-01,8,No Drought,No Drought
+2019-07-01,8,No Drought,No Drought
+2019-08-01,8,No Drought,No Drought
+2019-09-01,8,Extreme,Extreme
+2019-10-01,8,Extreme,Extreme
+2019-11-01,8,Extreme,Extreme
+2019-12-01,8,Extreme,Extreme
+2020-01-01,8,Extreme,Extreme
+2020-02-01,8,No Drought,No Drought
+2020-03-01,8,No Drought,No Drought
+2020-04-01,8,No Drought,No Drought
+2020-05-01,8,No Drought,No Drought
+2020-06-01,8,No Drought,No Drought
+2020-07-01,8,No Drought,No Drought
+2020-08-01,8,Moderate,Extreme
+2020-09-01,8,Extreme,Extreme
+2020-10-01,8,Extreme,Extreme
+2020-11-01,8,Extreme,Extreme
+2020-12-01,8,Extreme,Extreme
+2021-01-01,8,Moderate,Extreme
+2021-02-01,8,No Drought,No Drought
+2021-03-01,8,No Drought,No Drought
+2021-04-01,8,No Drought,No Drought
+2021-05-01,8,No Drought,No Drought
+2021-06-01,8,No Drought,No Drought
+2021-07-01,8,No Drought,No Drought
+2021-08-01,8,Extreme,No Drought
+2021-09-01,8,Extreme,Extreme
+2021-10-01,8,Extreme,Extreme
+2021-11-01,8,Extreme,Extreme
+2021-12-01,8,Extreme,Extreme
+2022-01-01,8,Extreme,Extreme
+2022-02-01,8,No Drought,No Drought
+2022-03-01,8,No Drought,No Drought
+2022-04-01,8,No Drought,No Drought
+2022-05-01,8,No Drought,No Drought
+2022-06-01,8,No Drought,No Drought
+2022-07-01,8,No Drought,No Drought
+2022-08-01,8,No Drought,No Drought
+2022-09-01,8,Extreme,Extreme
+2022-10-01,8,Extreme,Extreme
+2022-11-01,8,Extreme,Extreme
+2022-12-01,8,Extreme,Extreme
+2023-01-01,8,Extreme,Extreme
+2023-02-01,8,Moderate,No Drought
+2023-03-01,8,No Drought,No Drought
+2023-04-01,8,No Drought,No Drought
+2023-05-01,8,No Drought,No Drought
+2023-06-01,8,No Drought,No Drought
+2023-07-01,8,No Drought,No Drought
+2023-08-01,8,Extreme,No Drought
+2023-09-01,8,Extreme,Extreme
+2023-10-01,8,Extreme,Extreme
+2023-11-01,8,Extreme,Extreme
+2023-12-01,8,Extreme,Extreme
+2024-01-01,8,Extreme,Extreme
+2024-02-01,8,No Drought,Extreme
+2024-03-01,8,No Drought,No Drought
+2024-04-01,8,No Drought,No Drought
+2024-05-01,8,No Drought,No Drought
+2024-06-01,8,No Drought,No Drought
+2016-06-01,9,No Drought,No Drought
+2016-07-01,9,No Drought,No Drought
+2016-08-01,9,Moderate,Extreme
+2016-09-01,9,Extreme,Extreme
+2016-10-01,9,Extreme,Extreme
+2016-11-01,9,Moderate,Moderate
+2016-12-01,9,Moderate,Moderate
+2017-01-01,9,Moderate,No Drought
+2017-02-01,9,No Drought,No Drought
+2017-03-01,9,No Drought,No Drought
+2017-04-01,9,No Drought,No Drought
+2017-05-01,9,No Drought,No Drought
+2017-06-01,9,No Drought,No Drought
+2017-07-01,9,No Drought,No Drought
+2017-08-01,9,No Drought,No Drought
+2017-09-01,9,Extreme,Extreme
+2017-10-01,9,Extreme,Extreme
+2017-11-01,9,Moderate,Moderate
+2017-12-01,9,No Drought,No Drought
+2018-01-01,9,No Drought,No Drought
+2018-02-01,9,No Drought,No Drought
+2018-03-01,9,No Drought,No Drought
+2018-04-01,9,No Drought,No Drought
+2018-05-01,9,No Drought,No Drought
+2018-06-01,9,No Drought,No Drought
+2018-07-01,9,No Drought,No Drought
+2018-08-01,9,Extreme,No Drought
+2018-09-01,9,Extreme,Extreme
+2018-10-01,9,Moderate,Extreme
+2018-11-01,9,Moderate,Moderate
+2018-12-01,9,Moderate,Moderate
+2019-01-01,9,No Drought,No Drought
+2019-02-01,9,No Drought,No Drought
+2019-03-01,9,No Drought,No Drought
+2019-04-01,9,No Drought,No Drought
+2019-05-01,9,No Drought,No Drought
+2019-06-01,9,No Drought,No Drought
+2019-07-01,9,No Drought,No Drought
+2019-08-01,9,No Drought,No Drought
+2019-09-01,9,Extreme,Extreme
+2019-10-01,9,Extreme,Extreme
+2019-11-01,9,No Drought,Moderate
+2019-12-01,9,No Drought,No Drought
+2020-01-01,9,No Drought,No Drought
+2020-02-01,9,No Drought,No Drought
+2020-03-01,9,No Drought,No Drought
+2020-04-01,9,No Drought,No Drought
+2020-05-01,9,No Drought,No Drought
+2020-06-01,9,No Drought,No Drought
+2020-07-01,9,No Drought,No Drought
+2020-08-01,9,No Drought,No Drought
+2020-09-01,9,Extreme,Extreme
+2020-10-01,9,Extreme,Extreme
+2020-11-01,9,Moderate,Moderate
+2020-12-01,9,Moderate,No Drought
+2021-01-01,9,No Drought,No Drought
+2021-02-01,9,No Drought,No Drought
+2021-03-01,9,No Drought,No Drought
+2021-04-01,9,No Drought,No Drought
+2021-05-01,9,No Drought,No Drought
+2021-06-01,9,No Drought,No Drought
+2021-07-01,9,No Drought,No Drought
+2021-08-01,9,No Drought,No Drought
+2021-09-01,9,Extreme,Extreme
+2021-10-01,9,Extreme,Extreme
+2021-11-01,9,Moderate,Moderate
+2021-12-01,9,Moderate,Moderate
+2022-01-01,9,No Drought,No Drought
+2022-02-01,9,No Drought,No Drought
+2022-03-01,9,No Drought,No Drought
+2022-04-01,9,No Drought,No Drought
+2022-05-01,9,No Drought,No Drought
+2022-06-01,9,No Drought,No Drought
+2022-07-01,9,No Drought,No Drought
+2022-08-01,9,No Drought,No Drought
+2022-09-01,9,Extreme,Extreme
+2022-10-01,9,Extreme,Extreme
+2022-11-01,9,Moderate,Moderate
+2022-12-01,9,No Drought,No Drought
+2023-01-01,9,No Drought,No Drought
+2023-02-01,9,No Drought,No Drought
+2023-03-01,9,No Drought,No Drought
+2023-04-01,9,No Drought,No Drought
+2023-05-01,9,No Drought,No Drought
+2023-06-01,9,No Drought,No Drought
+2023-07-01,9,No Drought,No Drought
+2023-08-01,9,Moderate,No Drought
+2023-09-01,9,Moderate,Extreme
+2023-10-01,9,Moderate,Extreme
+2023-11-01,9,Moderate,Moderate
+2023-12-01,9,No Drought,No Drought
+2024-01-01,9,No Drought,No Drought
+2024-02-01,9,No Drought,No Drought
+2024-03-01,9,No Drought,No Drought
+2024-04-01,9,No Drought,No Drought
+2024-05-01,9,No Drought,No Drought
+2024-06-01,9,No Drought,No Drought
+2016-06-01,10,No Drought,No Drought
+2016-07-01,10,No Drought,No Drought
+2016-08-01,10,Moderate,No Drought
+2016-09-01,10,Extreme,Extreme
+2016-10-01,10,Extreme,Extreme
+2016-11-01,10,Moderate,Moderate
+2016-12-01,10,Moderate,Moderate
+2017-01-01,10,Moderate,No Drought
+2017-02-01,10,No Drought,No Drought
+2017-03-01,10,No Drought,No Drought
+2017-04-01,10,No Drought,No Drought
+2017-05-01,10,No Drought,No Drought
+2017-06-01,10,No Drought,No Drought
+2017-07-01,10,No Drought,No Drought
+2017-08-01,10,No Drought,No Drought
+2017-09-01,10,Extreme,Extreme
+2017-10-01,10,Moderate,Moderate
+2017-11-01,10,No Drought,Moderate
+2017-12-01,10,No Drought,No Drought
+2018-01-01,10,No Drought,No Drought
+2018-02-01,10,No Drought,No Drought
+2018-03-01,10,No Drought,No Drought
+2018-04-01,10,No Drought,No Drought
+2018-05-01,10,No Drought,No Drought
+2018-06-01,10,No Drought,No Drought
+2018-07-01,10,No Drought,No Drought
+2018-08-01,10,Extreme,No Drought
+2018-09-01,10,Extreme,Extreme
+2018-10-01,10,Moderate,Moderate
+2018-11-01,10,Moderate,Moderate
+2018-12-01,10,No Drought,Moderate
+2019-01-01,10,No Drought,No Drought
+2019-02-01,10,No Drought,No Drought
+2019-03-01,10,No Drought,No Drought
+2019-04-01,10,No Drought,No Drought
+2019-05-01,10,No Drought,No Drought
+2019-06-01,10,No Drought,No Drought
+2019-07-01,10,No Drought,No Drought
+2019-08-01,10,Moderate,No Drought
+2019-09-01,10,Extreme,Extreme
+2019-10-01,10,Extreme,Extreme
+2019-11-01,10,No Drought,Moderate
+2019-12-01,10,No Drought,No Drought
+2020-01-01,10,No Drought,No Drought
+2020-02-01,10,No Drought,No Drought
+2020-03-01,10,No Drought,No Drought
+2020-04-01,10,No Drought,No Drought
+2020-05-01,10,No Drought,No Drought
+2020-06-01,10,No Drought,No Drought
+2020-07-01,10,No Drought,No Drought
+2020-08-01,10,No Drought,No Drought
+2020-09-01,10,Extreme,Extreme
+2020-10-01,10,Extreme,Extreme
+2020-11-01,10,Moderate,Moderate
+2020-12-01,10,No Drought,No Drought
+2021-01-01,10,No Drought,No Drought
+2021-02-01,10,No Drought,No Drought
+2021-03-01,10,No Drought,No Drought
+2021-04-01,10,No Drought,No Drought
+2021-05-01,10,No Drought,No Drought
+2021-06-01,10,No Drought,No Drought
+2021-07-01,10,No Drought,No Drought
+2021-08-01,10,Moderate,No Drought
+2021-09-01,10,Extreme,Extreme
+2021-10-01,10,Moderate,Extreme
+2021-11-01,10,No Drought,Moderate
+2021-12-01,10,No Drought,No Drought
+2022-01-01,10,No Drought,No Drought
+2022-02-01,10,No Drought,No Drought
+2022-03-01,10,No Drought,No Drought
+2022-04-01,10,No Drought,No Drought
+2022-05-01,10,No Drought,No Drought
+2022-06-01,10,No Drought,No Drought
+2022-07-01,10,No Drought,No Drought
+2022-08-01,10,No Drought,No Drought
+2022-09-01,10,Extreme,Extreme
+2022-10-01,10,Extreme,Extreme
+2022-11-01,10,Moderate,Moderate
+2022-12-01,10,No Drought,No Drought
+2023-01-01,10,No Drought,No Drought
+2023-02-01,10,No Drought,No Drought
+2023-03-01,10,No Drought,No Drought
+2023-04-01,10,No Drought,No Drought
+2023-05-01,10,No Drought,No Drought
+2023-06-01,10,No Drought,No Drought
+2023-07-01,10,No Drought,No Drought
+2023-08-01,10,Moderate,No Drought
+2023-09-01,10,Moderate,Extreme
+2023-10-01,10,Moderate,Extreme
+2023-11-01,10,No Drought,Moderate
+2023-12-01,10,No Drought,No Drought
+2024-01-01,10,No Drought,No Drought
+2024-02-01,10,No Drought,No Drought
+2024-03-01,10,No Drought,No Drought
+2024-04-01,10,No Drought,No Drought
+2024-05-01,10,No Drought,No Drought
+2024-06-01,10,No Drought,No Drought
+2016-06-01,11,No Drought,No Drought
+2016-07-01,11,No Drought,No Drought
+2016-08-01,11,No Drought,No Drought
+2016-09-01,11,Extreme,Extreme
+2016-10-01,11,Extreme,Extreme
+2016-11-01,11,Extreme,Extreme
+2016-12-01,11,Moderate,Moderate
+2017-01-01,11,Moderate,No Drought
+2017-02-01,11,No Drought,No Drought
+2017-03-01,11,No Drought,No Drought
+2017-04-01,11,No Drought,No Drought
+2017-05-01,11,No Drought,No Drought
+2017-06-01,11,No Drought,No Drought
+2017-07-01,11,No Drought,No Drought
+2017-08-01,11,No Drought,No Drought
+2017-09-01,11,Extreme,Extreme
+2017-10-01,11,Extreme,Extreme
+2017-11-01,11,Moderate,Extreme
+2017-12-01,11,No Drought,Moderate
+2018-01-01,11,No Drought,No Drought
+2018-02-01,11,No Drought,No Drought
+2018-03-01,11,No Drought,No Drought
+2018-04-01,11,No Drought,No Drought
+2018-05-01,11,No Drought,No Drought
+2018-06-01,11,No Drought,No Drought
+2018-07-01,11,No Drought,No Drought
+2018-08-01,11,Extreme,No Drought
+2018-09-01,11,Extreme,Extreme
+2018-10-01,11,Extreme,Extreme
+2018-11-01,11,Moderate,Moderate
+2018-12-01,11,Moderate,Moderate
+2019-01-01,11,No Drought,No Drought
+2019-02-01,11,No Drought,No Drought
+2019-03-01,11,No Drought,No Drought
+2019-04-01,11,No Drought,No Drought
+2019-05-01,11,No Drought,No Drought
+2019-06-01,11,No Drought,No Drought
+2019-07-01,11,No Drought,No Drought
+2019-08-01,11,No Drought,No Drought
+2019-09-01,11,Extreme,Extreme
+2019-10-01,11,Extreme,Extreme
+2019-11-01,11,Extreme,Extreme
+2019-12-01,11,Moderate,Moderate
+2020-01-01,11,No Drought,No Drought
+2020-02-01,11,No Drought,No Drought
+2020-03-01,11,No Drought,No Drought
+2020-04-01,11,No Drought,No Drought
+2020-05-01,11,No Drought,No Drought
+2020-06-01,11,No Drought,No Drought
+2020-07-01,11,No Drought,No Drought
+2020-08-01,11,No Drought,No Drought
+2020-09-01,11,Extreme,Extreme
+2020-10-01,11,Extreme,Extreme
+2020-11-01,11,Extreme,Extreme
+2020-12-01,11,Moderate,No Drought
+2021-01-01,11,No Drought,No Drought
+2021-02-01,11,No Drought,No Drought
+2021-03-01,11,No Drought,No Drought
+2021-04-01,11,No Drought,No Drought
+2021-05-01,11,No Drought,No Drought
+2021-06-01,11,No Drought,No Drought
+2021-07-01,11,No Drought,No Drought
+2021-08-01,11,No Drought,No Drought
+2021-09-01,11,Extreme,Extreme
+2021-10-01,11,Extreme,Extreme
+2021-11-01,11,Extreme,Extreme
+2021-12-01,11,Moderate,Moderate
+2022-01-01,11,No Drought,No Drought
+2022-02-01,11,No Drought,No Drought
+2022-03-01,11,No Drought,No Drought
+2022-04-01,11,No Drought,No Drought
+2022-05-01,11,No Drought,No Drought
+2022-06-01,11,No Drought,No Drought
+2022-07-01,11,No Drought,No Drought
+2022-08-01,11,No Drought,No Drought
+2022-09-01,11,Extreme,Extreme
+2022-10-01,11,Extreme,Extreme
+2022-11-01,11,Moderate,Extreme
+2022-12-01,11,No Drought,Moderate
+2023-01-01,11,No Drought,No Drought
+2023-02-01,11,No Drought,No Drought
+2023-03-01,11,No Drought,No Drought
+2023-04-01,11,No Drought,No Drought
+2023-05-01,11,No Drought,No Drought
+2023-06-01,11,No Drought,No Drought
+2023-07-01,11,No Drought,No Drought
+2023-08-01,11,No Drought,No Drought
+2023-09-01,11,No Drought,No Drought
+2023-10-01,11,Extreme,Extreme
+2023-11-01,11,Extreme,Extreme
+2023-12-01,11,No Drought,Moderate
+2024-01-01,11,No Drought,No Drought
+2024-02-01,11,No Drought,No Drought
+2024-03-01,11,No Drought,No Drought
+2024-04-01,11,No Drought,No Drought
+2024-05-01,11,No Drought,No Drought
+2024-06-01,11,No Drought,No Drought
+2016-06-01,12,No Drought,No Drought
+2016-07-01,12,No Drought,No Drought
+2016-08-01,12,No Drought,No Drought
+2016-09-01,12,Extreme,Extreme
+2016-10-01,12,Extreme,Extreme
+2016-11-01,12,Extreme,Extreme
+2016-12-01,12,Extreme,Extreme
+2017-01-01,12,Extreme,Extreme
+2017-02-01,12,No Drought,No Drought
+2017-03-01,12,No Drought,No Drought
+2017-04-01,12,No Drought,No Drought
+2017-05-01,12,No Drought,No Drought
+2017-06-01,12,No Drought,No Drought
+2017-07-01,12,No Drought,No Drought
+2017-08-01,12,No Drought,No Drought
+2017-09-01,12,Extreme,Extreme
+2017-10-01,12,Extreme,Extreme
+2017-11-01,12,Extreme,Extreme
+2017-12-01,12,Moderate,Extreme
+2018-01-01,12,Extreme,Extreme
+2018-02-01,12,No Drought,No Drought
+2018-03-01,12,No Drought,No Drought
+2018-04-01,12,No Drought,No Drought
+2018-05-01,12,No Drought,No Drought
+2018-06-01,12,No Drought,No Drought
+2018-07-01,12,No Drought,No Drought
+2018-08-01,12,Extreme,No Drought
+2018-09-01,12,Moderate,Extreme
+2018-10-01,12,Extreme,Extreme
+2018-11-01,12,Extreme,Extreme
+2018-12-01,12,Extreme,Extreme
+2019-01-01,12,Extreme,Extreme
+2019-02-01,12,No Drought,No Drought
+2019-03-01,12,No Drought,No Drought
+2019-04-01,12,No Drought,No Drought
+2019-05-01,12,No Drought,No Drought
+2019-06-01,12,No Drought,No Drought
+2019-07-01,12,No Drought,No Drought
+2019-08-01,12,No Drought,No Drought
+2019-09-01,12,Extreme,Extreme
+2019-10-01,12,Extreme,Extreme
+2019-11-01,12,Extreme,Extreme
+2019-12-01,12,Extreme,Extreme
+2020-01-01,12,Extreme,Extreme
+2020-02-01,12,No Drought,No Drought
+2020-03-01,12,No Drought,No Drought
+2020-04-01,12,No Drought,No Drought
+2020-05-01,12,No Drought,No Drought
+2020-06-01,12,No Drought,No Drought
+2020-07-01,12,No Drought,No Drought
+2020-08-01,12,No Drought,No Drought
+2020-09-01,12,Extreme,Extreme
+2020-10-01,12,Extreme,Extreme
+2020-11-01,12,Extreme,Extreme
+2020-12-01,12,Extreme,Extreme
+2021-01-01,12,No Drought,No Drought
+2021-02-01,12,No Drought,No Drought
+2021-03-01,12,No Drought,No Drought
+2021-04-01,12,No Drought,No Drought
+2021-05-01,12,No Drought,No Drought
+2021-06-01,12,No Drought,No Drought
+2021-07-01,12,No Drought,No Drought
+2021-08-01,12,No Drought,No Drought
+2021-09-01,12,Extreme,Extreme
+2021-10-01,12,Extreme,Extreme
+2021-11-01,12,Extreme,Extreme
+2021-12-01,12,Extreme,Extreme
+2022-01-01,12,Extreme,No Drought
+2022-02-01,12,No Drought,No Drought
+2022-03-01,12,No Drought,No Drought
+2022-04-01,12,No Drought,No Drought
+2022-05-01,12,No Drought,No Drought
+2022-06-01,12,No Drought,No Drought
+2022-07-01,12,No Drought,No Drought
+2022-08-01,12,No Drought,No Drought
+2022-09-01,12,Extreme,Extreme
+2022-10-01,12,Extreme,Extreme
+2022-11-01,12,Extreme,Extreme
+2022-12-01,12,Extreme,Extreme
+2023-01-01,12,Extreme,Extreme
+2023-02-01,12,No Drought,No Drought
+2023-03-01,12,No Drought,No Drought
+2023-04-01,12,No Drought,No Drought
+2023-05-01,12,No Drought,No Drought
+2023-06-01,12,No Drought,No Drought
+2023-07-01,12,No Drought,No Drought
+2023-08-01,12,Moderate,No Drought
+2023-09-01,12,No Drought,Extreme
+2023-10-01,12,Extreme,Extreme
+2023-11-01,12,Extreme,Extreme
+2023-12-01,12,Extreme,Extreme
+2024-01-01,12,Extreme,Extreme
+2024-02-01,12,No Drought,No Drought
+2024-03-01,12,No Drought,No Drought
+2024-04-01,12,No Drought,No Drought
+2024-05-01,12,No Drought,No Drought
+2024-06-01,12,No Drought,No Drought
+2016-06-01,13,No Drought,No Drought
+2016-07-01,13,No Drought,No Drought
+2016-08-01,13,No Drought,No Drought
+2016-09-01,13,Extreme,Extreme
+2016-10-01,13,Extreme,Extreme
+2016-11-01,13,Extreme,Extreme
+2016-12-01,13,Extreme,Extreme
+2017-01-01,13,Extreme,Extreme
+2017-02-01,13,No Drought,No Drought
+2017-03-01,13,No Drought,No Drought
+2017-04-01,13,No Drought,No Drought
+2017-05-01,13,No Drought,No Drought
+2017-06-01,13,No Drought,No Drought
+2017-07-01,13,No Drought,No Drought
+2017-08-01,13,No Drought,No Drought
+2017-09-01,13,Extreme,Extreme
+2017-10-01,13,Extreme,Extreme
+2017-11-01,13,Extreme,Extreme
+2017-12-01,13,Extreme,Extreme
+2018-01-01,13,Extreme,Extreme
+2018-02-01,13,No Drought,No Drought
+2018-03-01,13,No Drought,No Drought
+2018-04-01,13,No Drought,No Drought
+2018-05-01,13,No Drought,No Drought
+2018-06-01,13,No Drought,No Drought
+2018-07-01,13,Moderate,No Drought
+2018-08-01,13,Extreme,No Drought
+2018-09-01,13,Extreme,Extreme
+2018-10-01,13,Extreme,Extreme
+2018-11-01,13,Extreme,Extreme
+2018-12-01,13,Extreme,Extreme
+2019-01-01,13,Extreme,Extreme
+2019-02-01,13,No Drought,No Drought
+2019-03-01,13,No Drought,No Drought
+2019-04-01,13,No Drought,No Drought
+2019-05-01,13,No Drought,No Drought
+2019-06-01,13,No Drought,No Drought
+2019-07-01,13,No Drought,No Drought
+2019-08-01,13,No Drought,No Drought
+2019-09-01,13,Extreme,Extreme
+2019-10-01,13,Extreme,Extreme
+2019-11-01,13,Extreme,Extreme
+2019-12-01,13,Extreme,Extreme
+2020-01-01,13,Moderate,No Drought
+2020-02-01,13,No Drought,No Drought
+2020-03-01,13,No Drought,No Drought
+2020-04-01,13,No Drought,No Drought
+2020-05-01,13,No Drought,No Drought
+2020-06-01,13,No Drought,No Drought
+2020-07-01,13,No Drought,No Drought
+2020-08-01,13,No Drought,No Drought
+2020-09-01,13,Extreme,Extreme
+2020-10-01,13,Extreme,Extreme
+2020-11-01,13,Extreme,Extreme
+2020-12-01,13,Extreme,Extreme
+2021-01-01,13,No Drought,No Drought
+2021-02-01,13,No Drought,No Drought
+2021-03-01,13,No Drought,No Drought
+2021-04-01,13,No Drought,No Drought
+2021-05-01,13,No Drought,No Drought
+2021-06-01,13,No Drought,No Drought
+2021-07-01,13,No Drought,No Drought
+2021-08-01,13,No Drought,No Drought
+2021-09-01,13,Extreme,Extreme
+2021-10-01,13,Extreme,Extreme
+2021-11-01,13,Extreme,Extreme
+2021-12-01,13,Extreme,Extreme
+2022-01-01,13,Extreme,No Drought
+2022-02-01,13,No Drought,No Drought
+2022-03-01,13,No Drought,No Drought
+2022-04-01,13,No Drought,No Drought
+2022-05-01,13,No Drought,No Drought
+2022-06-01,13,No Drought,No Drought
+2022-07-01,13,No Drought,No Drought
+2022-08-01,13,No Drought,No Drought
+2022-09-01,13,Extreme,Extreme
+2022-10-01,13,Extreme,Extreme
+2022-11-01,13,Extreme,Extreme
+2022-12-01,13,Moderate,Extreme
+2023-01-01,13,Moderate,Extreme
+2023-02-01,13,No Drought,No Drought
+2023-03-01,13,No Drought,No Drought
+2023-04-01,13,No Drought,No Drought
+2023-05-01,13,No Drought,No Drought
+2023-06-01,13,No Drought,No Drought
+2023-07-01,13,No Drought,No Drought
+2023-08-01,13,No Drought,No Drought
+2023-09-01,13,No Drought,No Drought
+2023-10-01,13,Extreme,Extreme
+2023-11-01,13,Extreme,Extreme
+2023-12-01,13,Extreme,Extreme
+2024-01-01,13,Extreme,Extreme
+2024-02-01,13,No Drought,No Drought
+2024-03-01,13,No Drought,No Drought
+2024-04-01,13,No Drought,No Drought
+2024-05-01,13,No Drought,No Drought
+2024-06-01,13,No Drought,No Drought
+2016-06-01,14,No Drought,No Drought
+2016-07-01,14,No Drought,No Drought
+2016-08-01,14,Extreme,No Drought
+2016-09-01,14,Extreme,Extreme
+2016-10-01,14,Extreme,Extreme
+2016-11-01,14,Extreme,Extreme
+2016-12-01,14,Extreme,Extreme
+2017-01-01,14,Moderate,No Drought
+2017-02-01,14,No Drought,No Drought
+2017-03-01,14,No Drought,No Drought
+2017-04-01,14,No Drought,No Drought
+2017-05-01,14,No Drought,No Drought
+2017-06-01,14,No Drought,No Drought
+2017-07-01,14,No Drought,No Drought
+2017-08-01,14,No Drought,No Drought
+2017-09-01,14,Extreme,Extreme
+2017-10-01,14,Extreme,Extreme
+2017-11-01,14,Extreme,Extreme
+2017-12-01,14,Extreme,Extreme
+2018-01-01,14,No Drought,No Drought
+2018-02-01,14,No Drought,No Drought
+2018-03-01,14,No Drought,No Drought
+2018-04-01,14,No Drought,No Drought
+2018-05-01,14,No Drought,No Drought
+2018-06-01,14,No Drought,No Drought
+2018-07-01,14,No Drought,No Drought
+2018-08-01,14,Moderate,No Drought
+2018-09-01,14,Extreme,Extreme
+2018-10-01,14,Extreme,Extreme
+2018-11-01,14,Extreme,Extreme
+2018-12-01,14,Extreme,Extreme
+2019-01-01,14,Moderate,No Drought
+2019-02-01,14,No Drought,No Drought
+2019-03-01,14,No Drought,No Drought
+2019-04-01,14,No Drought,No Drought
+2019-05-01,14,No Drought,No Drought
+2019-06-01,14,No Drought,No Drought
+2019-07-01,14,No Drought,No Drought
+2019-08-01,14,No Drought,No Drought
+2019-09-01,14,Extreme,Extreme
+2019-10-01,14,Extreme,Extreme
+2019-11-01,14,Extreme,Extreme
+2019-12-01,14,Extreme,Extreme
+2020-01-01,14,Moderate,No Drought
+2020-02-01,14,No Drought,No Drought
+2020-03-01,14,No Drought,No Drought
+2020-04-01,14,No Drought,No Drought
+2020-05-01,14,No Drought,No Drought
+2020-06-01,14,No Drought,No Drought
+2020-07-01,14,No Drought,No Drought
+2020-08-01,14,No Drought,No Drought
+2020-09-01,14,Extreme,Extreme
+2020-10-01,14,Extreme,Extreme
+2020-11-01,14,Extreme,Extreme
+2020-12-01,14,Extreme,Extreme
+2021-01-01,14,No Drought,No Drought
+2021-02-01,14,No Drought,No Drought
+2021-03-01,14,No Drought,No Drought
+2021-04-01,14,No Drought,No Drought
+2021-05-01,14,No Drought,No Drought
+2021-06-01,14,No Drought,No Drought
+2021-07-01,14,No Drought,No Drought
+2021-08-01,14,No Drought,No Drought
+2021-09-01,14,No Drought,Extreme
+2021-10-01,14,Extreme,Extreme
+2021-11-01,14,Extreme,Extreme
+2021-12-01,14,No Drought,Extreme
+2022-01-01,14,No Drought,No Drought
+2022-02-01,14,No Drought,No Drought
+2022-03-01,14,No Drought,No Drought
+2022-04-01,14,No Drought,No Drought
+2022-05-01,14,No Drought,No Drought
+2022-06-01,14,No Drought,No Drought
+2022-07-01,14,No Drought,No Drought
+2022-08-01,14,No Drought,No Drought
+2022-09-01,14,Extreme,Extreme
+2022-10-01,14,Extreme,Extreme
+2022-11-01,14,Extreme,Extreme
+2022-12-01,14,Extreme,No Drought
+2023-01-01,14,Moderate,No Drought
+2023-02-01,14,No Drought,No Drought
+2023-03-01,14,No Drought,No Drought
+2023-04-01,14,No Drought,No Drought
+2023-05-01,14,No Drought,No Drought
+2023-06-01,14,No Drought,No Drought
+2023-07-01,14,No Drought,No Drought
+2023-08-01,14,No Drought,No Drought
+2023-09-01,14,Moderate,No Drought
+2023-10-01,14,Extreme,Extreme
+2023-11-01,14,Extreme,Extreme
+2023-12-01,14,Extreme,Extreme
+2024-01-01,14,No Drought,No Drought
+2024-02-01,14,No Drought,No Drought
+2024-03-01,14,No Drought,No Drought
+2024-04-01,14,No Drought,No Drought
+2024-05-01,14,No Drought,No Drought
+2024-06-01,14,No Drought,No Drought
+2016-06-01,15,No Drought,No Drought
+2016-07-01,15,No Drought,No Drought
+2016-08-01,15,No Drought,No Drought
+2016-09-01,15,Extreme,Extreme
+2016-10-01,15,Extreme,Extreme
+2016-11-01,15,Extreme,Extreme
+2016-12-01,15,Moderate,Moderate
+2017-01-01,15,Moderate,Moderate
+2017-02-01,15,No Drought,No Drought
+2017-03-01,15,No Drought,No Drought
+2017-04-01,15,No Drought,No Drought
+2017-05-01,15,No Drought,No Drought
+2017-06-01,15,No Drought,No Drought
+2017-07-01,15,No Drought,No Drought
+2017-08-01,15,No Drought,No Drought
+2017-09-01,15,Extreme,Extreme
+2017-10-01,15,Extreme,Extreme
+2017-11-01,15,Extreme,Extreme
+2017-12-01,15,Moderate,Moderate
+2018-01-01,15,No Drought,No Drought
+2018-02-01,15,No Drought,No Drought
+2018-03-01,15,No Drought,No Drought
+2018-04-01,15,No Drought,No Drought
+2018-05-01,15,No Drought,No Drought
+2018-06-01,15,No Drought,No Drought
+2018-07-01,15,No Drought,No Drought
+2018-08-01,15,No Drought,No Drought
+2018-09-01,15,Extreme,Extreme
+2018-10-01,15,Extreme,Extreme
+2018-11-01,15,Extreme,Extreme
+2018-12-01,15,Moderate,Moderate
+2019-01-01,15,No Drought,Moderate
+2019-02-01,15,No Drought,No Drought
+2019-03-01,15,No Drought,No Drought
+2019-04-01,15,No Drought,No Drought
+2019-05-01,15,No Drought,No Drought
+2019-06-01,15,No Drought,No Drought
+2019-07-01,15,No Drought,No Drought
+2019-08-01,15,No Drought,No Drought
+2019-09-01,15,Extreme,Extreme
+2019-10-01,15,Extreme,Extreme
+2019-11-01,15,Extreme,Extreme
+2019-12-01,15,Moderate,Moderate
+2020-01-01,15,No Drought,No Drought
+2020-02-01,15,No Drought,No Drought
+2020-03-01,15,No Drought,No Drought
+2020-04-01,15,No Drought,No Drought
+2020-05-01,15,No Drought,No Drought
+2020-06-01,15,No Drought,No Drought
+2020-07-01,15,No Drought,No Drought
+2020-08-01,15,No Drought,No Drought
+2020-09-01,15,Extreme,Extreme
+2020-10-01,15,Extreme,Extreme
+2020-11-01,15,Extreme,Extreme
+2020-12-01,15,Moderate,Moderate
+2021-01-01,15,No Drought,No Drought
+2021-02-01,15,No Drought,No Drought
+2021-03-01,15,No Drought,No Drought
+2021-04-01,15,No Drought,No Drought
+2021-05-01,15,No Drought,No Drought
+2021-06-01,15,No Drought,No Drought
+2021-07-01,15,No Drought,No Drought
+2021-08-01,15,No Drought,No Drought
+2021-09-01,15,Extreme,Extreme
+2021-10-01,15,Extreme,Extreme
+2021-11-01,15,Extreme,Extreme
+2021-12-01,15,Moderate,Moderate
+2022-01-01,15,No Drought,No Drought
+2022-02-01,15,No Drought,No Drought
+2022-03-01,15,No Drought,No Drought
+2022-04-01,15,No Drought,No Drought
+2022-05-01,15,No Drought,No Drought
+2022-06-01,15,No Drought,No Drought
+2022-07-01,15,No Drought,No Drought
+2022-08-01,15,No Drought,No Drought
+2022-09-01,15,Extreme,Extreme
+2022-10-01,15,Extreme,Extreme
+2022-11-01,15,Extreme,Extreme
+2022-12-01,15,No Drought,Moderate
+2023-01-01,15,No Drought,No Drought
+2023-02-01,15,No Drought,No Drought
+2023-03-01,15,No Drought,No Drought
+2023-04-01,15,No Drought,No Drought
+2023-05-01,15,No Drought,No Drought
+2023-06-01,15,No Drought,No Drought
+2023-07-01,15,No Drought,No Drought
+2023-08-01,15,No Drought,No Drought
+2023-09-01,15,No Drought,No Drought
+2023-10-01,15,Extreme,Extreme
+2023-11-01,15,Extreme,Extreme
+2023-12-01,15,Moderate,Moderate
+2024-01-01,15,No Drought,No Drought
+2024-02-01,15,No Drought,No Drought
+2024-03-01,15,No Drought,No Drought
+2024-04-01,15,No Drought,No Drought
+2024-05-01,15,No Drought,No Drought
+2024-06-01,15,No Drought,No Drought
+2016-06-01,16,No Drought,No Drought
+2016-07-01,16,No Drought,No Drought
+2016-08-01,16,Extreme,Extreme
+2016-09-01,16,Extreme,Extreme
+2016-10-01,16,Extreme,Extreme
+2016-11-01,16,Extreme,Extreme
+2016-12-01,16,Extreme,Extreme
+2017-01-01,16,Extreme,Extreme
+2017-02-01,16,No Drought,No Drought
+2017-03-01,16,No Drought,No Drought
+2017-04-01,16,No Drought,No Drought
+2017-05-01,16,No Drought,No Drought
+2017-06-01,16,No Drought,No Drought
+2017-07-01,16,No Drought,No Drought
+2017-08-01,16,Moderate,Extreme
+2017-09-01,16,Extreme,Extreme
+2017-10-01,16,Extreme,Extreme
+2017-11-01,16,Extreme,Extreme
+2017-12-01,16,Extreme,Extreme
+2018-01-01,16,Extreme,Extreme
+2018-02-01,16,No Drought,No Drought
+2018-03-01,16,No Drought,No Drought
+2018-04-01,16,No Drought,No Drought
+2018-05-01,16,No Drought,No Drought
+2018-06-01,16,No Drought,No Drought
+2018-07-01,16,Extreme,No Drought
+2018-08-01,16,Extreme,Extreme
+2018-09-01,16,Extreme,Extreme
+2018-10-01,16,Extreme,Extreme
+2018-11-01,16,Extreme,Extreme
+2018-12-01,16,Extreme,Extreme
+2019-01-01,16,Extreme,Extreme
+2019-02-01,16,No Drought,No Drought
+2019-03-01,16,No Drought,No Drought
+2019-04-01,16,No Drought,No Drought
+2019-05-01,16,No Drought,No Drought
+2019-06-01,16,No Drought,No Drought
+2019-07-01,16,No Drought,No Drought
+2019-08-01,16,Moderate,Extreme
+2019-09-01,16,Extreme,Extreme
+2019-10-01,16,Extreme,Extreme
+2019-11-01,16,Extreme,Extreme
+2019-12-01,16,Extreme,Extreme
+2020-01-01,16,Extreme,Extreme
+2020-02-01,16,No Drought,No Drought
+2020-03-01,16,No Drought,No Drought
+2020-04-01,16,No Drought,No Drought
+2020-05-01,16,No Drought,No Drought
+2020-06-01,16,No Drought,No Drought
+2020-07-01,16,No Drought,No Drought
+2020-08-01,16,Moderate,Extreme
+2020-09-01,16,Extreme,Extreme
+2020-10-01,16,Extreme,Extreme
+2020-11-01,16,Extreme,Extreme
+2020-12-01,16,Extreme,Extreme
+2021-01-01,16,Moderate,Extreme
+2021-02-01,16,No Drought,No Drought
+2021-03-01,16,No Drought,No Drought
+2021-04-01,16,No Drought,No Drought
+2021-05-01,16,No Drought,No Drought
+2021-06-01,16,No Drought,No Drought
+2021-07-01,16,No Drought,No Drought
+2021-08-01,16,Extreme,Extreme
+2021-09-01,16,Extreme,Extreme
+2021-10-01,16,Extreme,Extreme
+2021-11-01,16,Extreme,Extreme
+2021-12-01,16,Extreme,Extreme
+2022-01-01,16,Extreme,No Drought
+2022-02-01,16,No Drought,No Drought
+2022-03-01,16,No Drought,No Drought
+2022-04-01,16,No Drought,No Drought
+2022-05-01,16,No Drought,No Drought
+2022-06-01,16,No Drought,No Drought
+2022-07-01,16,No Drought,No Drought
+2022-08-01,16,Moderate,No Drought
+2022-09-01,16,Extreme,Extreme
+2022-10-01,16,Extreme,Extreme
+2022-11-01,16,Extreme,Extreme
+2022-12-01,16,Extreme,Extreme
+2023-01-01,16,Extreme,Extreme
+2023-02-01,16,No Drought,No Drought
+2023-03-01,16,No Drought,No Drought
+2023-04-01,16,No Drought,No Drought
+2023-05-01,16,No Drought,No Drought
+2023-06-01,16,No Drought,No Drought
+2023-07-01,16,No Drought,No Drought
+2023-08-01,16,Extreme,Extreme
+2023-09-01,16,Extreme,Extreme
+2023-10-01,16,Extreme,Extreme
+2023-11-01,16,Extreme,Extreme
+2023-12-01,16,Extreme,Extreme
+2024-01-01,16,Extreme,Extreme
+2024-02-01,16,No Drought,No Drought
+2024-03-01,16,No Drought,No Drought
+2024-04-01,16,No Drought,No Drought
+2024-05-01,16,No Drought,No Drought
+2024-06-01,16,No Drought,No Drought
+2016-06-01,17,No Drought,No Drought
+2016-07-01,17,No Drought,No Drought
+2016-08-01,17,Extreme,Extreme
+2016-09-01,17,Extreme,Extreme
+2016-10-01,17,Extreme,Extreme
+2016-11-01,17,Extreme,Extreme
+2016-12-01,17,Extreme,Extreme
+2017-01-01,17,Extreme,Extreme
+2017-02-01,17,No Drought,No Drought
+2017-03-01,17,No Drought,No Drought
+2017-04-01,17,No Drought,No Drought
+2017-05-01,17,No Drought,No Drought
+2017-06-01,17,No Drought,No Drought
+2017-07-01,17,No Drought,No Drought
+2017-08-01,17,Extreme,Extreme
+2017-09-01,17,Extreme,Extreme
+2017-10-01,17,Extreme,Extreme
+2017-11-01,17,Extreme,Extreme
+2017-12-01,17,Extreme,Extreme
+2018-01-01,17,Extreme,Extreme
+2018-02-01,17,No Drought,No Drought
+2018-03-01,17,No Drought,No Drought
+2018-04-01,17,No Drought,No Drought
+2018-05-01,17,No Drought,No Drought
+2018-06-01,17,No Drought,No Drought
+2018-07-01,17,Extreme,No Drought
+2018-08-01,17,Extreme,Extreme
+2018-09-01,17,Extreme,Extreme
+2018-10-01,17,Extreme,Extreme
+2018-11-01,17,Extreme,Extreme
+2018-12-01,17,Extreme,Extreme
+2019-01-01,17,Extreme,Extreme
+2019-02-01,17,No Drought,No Drought
+2019-03-01,17,No Drought,No Drought
+2019-04-01,17,No Drought,No Drought
+2019-05-01,17,No Drought,No Drought
+2019-06-01,17,No Drought,No Drought
+2019-07-01,17,No Drought,No Drought
+2019-08-01,17,Extreme,Extreme
+2019-09-01,17,Extreme,Extreme
+2019-10-01,17,Extreme,Extreme
+2019-11-01,17,Extreme,Extreme
+2019-12-01,17,Extreme,Extreme
+2020-01-01,17,Extreme,Extreme
+2020-02-01,17,No Drought,No Drought
+2020-03-01,17,No Drought,No Drought
+2020-04-01,17,No Drought,No Drought
+2020-05-01,17,No Drought,No Drought
+2020-06-01,17,No Drought,No Drought
+2020-07-01,17,No Drought,No Drought
+2020-08-01,17,Moderate,Extreme
+2020-09-01,17,Extreme,Extreme
+2020-10-01,17,Extreme,Extreme
+2020-11-01,17,Extreme,Extreme
+2020-12-01,17,Extreme,Extreme
+2021-01-01,17,Extreme,Extreme
+2021-02-01,17,No Drought,No Drought
+2021-03-01,17,No Drought,No Drought
+2021-04-01,17,No Drought,No Drought
+2021-05-01,17,No Drought,No Drought
+2021-06-01,17,No Drought,No Drought
+2021-07-01,17,No Drought,No Drought
+2021-08-01,17,Extreme,Extreme
+2021-09-01,17,Extreme,Extreme
+2021-10-01,17,Extreme,Extreme
+2021-11-01,17,Extreme,Extreme
+2021-12-01,17,Extreme,Extreme
+2022-01-01,17,Extreme,No Drought
+2022-02-01,17,No Drought,No Drought
+2022-03-01,17,No Drought,No Drought
+2022-04-01,17,No Drought,No Drought
+2022-05-01,17,No Drought,No Drought
+2022-06-01,17,No Drought,No Drought
+2022-07-01,17,No Drought,No Drought
+2022-08-01,17,Moderate,No Drought
+2022-09-01,17,Extreme,Extreme
+2022-10-01,17,Extreme,Extreme
+2022-11-01,17,Extreme,Extreme
+2022-12-01,17,Extreme,Extreme
+2023-01-01,17,Extreme,Extreme
+2023-02-01,17,No Drought,No Drought
+2023-03-01,17,No Drought,No Drought
+2023-04-01,17,No Drought,No Drought
+2023-05-01,17,No Drought,No Drought
+2023-06-01,17,No Drought,No Drought
+2023-07-01,17,No Drought,No Drought
+2023-08-01,17,Extreme,Extreme
+2023-09-01,17,Extreme,Extreme
+2023-10-01,17,Extreme,Extreme
+2023-11-01,17,Extreme,Extreme
+2023-12-01,17,Extreme,Extreme
+2024-01-01,17,Extreme,Extreme
+2024-02-01,17,No Drought,No Drought
+2024-03-01,17,No Drought,No Drought
+2024-04-01,17,No Drought,No Drought
+2024-05-01,17,No Drought,No Drought
+2024-06-01,17,No Drought,No Drought
+2016-06-01,18,No Drought,No Drought
+2016-07-01,18,No Drought,No Drought
+2016-08-01,18,Moderate,No Drought
+2016-09-01,18,Extreme,Extreme
+2016-10-01,18,Extreme,Extreme
+2016-11-01,18,Moderate,Moderate
+2016-12-01,18,Moderate,Moderate
+2017-01-01,18,Moderate,No Drought
+2017-02-01,18,No Drought,No Drought
+2017-03-01,18,No Drought,No Drought
+2017-04-01,18,No Drought,No Drought
+2017-05-01,18,No Drought,No Drought
+2017-06-01,18,No Drought,No Drought
+2017-07-01,18,No Drought,No Drought
+2017-08-01,18,No Drought,No Drought
+2017-09-01,18,Extreme,Extreme
+2017-10-01,18,Moderate,Moderate
+2017-11-01,18,Moderate,Moderate
+2017-12-01,18,No Drought,Moderate
+2018-01-01,18,No Drought,No Drought
+2018-02-01,18,No Drought,No Drought
+2018-03-01,18,No Drought,No Drought
+2018-04-01,18,No Drought,No Drought
+2018-05-01,18,No Drought,No Drought
+2018-06-01,18,No Drought,No Drought
+2018-07-01,18,No Drought,No Drought
+2018-08-01,18,Extreme,No Drought
+2018-09-01,18,Extreme,Extreme
+2018-10-01,18,Moderate,Moderate
+2018-11-01,18,Moderate,Moderate
+2018-12-01,18,Moderate,Moderate
+2019-01-01,18,Moderate,No Drought
+2019-02-01,18,No Drought,No Drought
+2019-03-01,18,No Drought,No Drought
+2019-04-01,18,No Drought,No Drought
+2019-05-01,18,No Drought,No Drought
+2019-06-01,18,No Drought,No Drought
+2019-07-01,18,No Drought,No Drought
+2019-08-01,18,Moderate,No Drought
+2019-09-01,18,Extreme,Extreme
+2019-10-01,18,Extreme,Extreme
+2019-11-01,18,Moderate,Moderate
+2019-12-01,18,No Drought,No Drought
+2020-01-01,18,No Drought,No Drought
+2020-02-01,18,No Drought,No Drought
+2020-03-01,18,No Drought,No Drought
+2020-04-01,18,No Drought,No Drought
+2020-05-01,18,No Drought,No Drought
+2020-06-01,18,No Drought,No Drought
+2020-07-01,18,No Drought,No Drought
+2020-08-01,18,No Drought,No Drought
+2020-09-01,18,Extreme,Extreme
+2020-10-01,18,Extreme,Extreme
+2020-11-01,18,No Drought,Moderate
+2020-12-01,18,No Drought,No Drought
+2021-01-01,18,No Drought,No Drought
+2021-02-01,18,No Drought,No Drought
+2021-03-01,18,No Drought,No Drought
+2021-04-01,18,No Drought,No Drought
+2021-05-01,18,No Drought,No Drought
+2021-06-01,18,No Drought,No Drought
+2021-07-01,18,No Drought,No Drought
+2021-08-01,18,Moderate,No Drought
+2021-09-01,18,Moderate,Extreme
+2021-10-01,18,Moderate,Moderate
+2021-11-01,18,No Drought,Moderate
+2021-12-01,18,Moderate,No Drought
+2022-01-01,18,Moderate,No Drought
+2022-02-01,18,No Drought,No Drought
+2022-03-01,18,No Drought,No Drought
+2022-04-01,18,No Drought,No Drought
+2022-05-01,18,No Drought,No Drought
+2022-06-01,18,No Drought,No Drought
+2022-07-01,18,No Drought,No Drought
+2022-08-01,18,No Drought,No Drought
+2022-09-01,18,Extreme,Extreme
+2022-10-01,18,Extreme,Extreme
+2022-11-01,18,Moderate,Moderate
+2022-12-01,18,No Drought,No Drought
+2023-01-01,18,No Drought,No Drought
+2023-02-01,18,No Drought,No Drought
+2023-03-01,18,No Drought,No Drought
+2023-04-01,18,No Drought,No Drought
+2023-05-01,18,No Drought,No Drought
+2023-06-01,18,No Drought,No Drought
+2023-07-01,18,No Drought,No Drought
+2023-08-01,18,Moderate,No Drought
+2023-09-01,18,Moderate,Extreme
+2023-10-01,18,Moderate,Extreme
+2023-11-01,18,Moderate,Moderate
+2023-12-01,18,No Drought,No Drought
+2024-01-01,18,No Drought,No Drought
+2024-02-01,18,No Drought,No Drought
+2024-03-01,18,No Drought,No Drought
+2024-04-01,18,No Drought,No Drought
+2024-05-01,18,No Drought,No Drought
+2024-06-01,18,No Drought,No Drought
+2016-06-01,19,No Drought,No Drought
+2016-07-01,19,No Drought,No Drought
+2016-08-01,19,No Drought,No Drought
+2016-09-01,19,Extreme,Extreme
+2016-10-01,19,Extreme,Extreme
+2016-11-01,19,Moderate,Moderate
+2016-12-01,19,Moderate,Moderate
+2017-01-01,19,No Drought,No Drought
+2017-02-01,19,No Drought,No Drought
+2017-03-01,19,No Drought,No Drought
+2017-04-01,19,No Drought,No Drought
+2017-05-01,19,No Drought,No Drought
+2017-06-01,19,No Drought,No Drought
+2017-07-01,19,No Drought,No Drought
+2017-08-01,19,No Drought,No Drought
+2017-09-01,19,Extreme,Extreme
+2017-10-01,19,Extreme,Extreme
+2017-11-01,19,Moderate,Moderate
+2017-12-01,19,No Drought,Moderate
+2018-01-01,19,No Drought,No Drought
+2018-02-01,19,No Drought,No Drought
+2018-03-01,19,No Drought,No Drought
+2018-04-01,19,No Drought,No Drought
+2018-05-01,19,No Drought,No Drought
+2018-06-01,19,No Drought,No Drought
+2018-07-01,19,No Drought,No Drought
+2018-08-01,19,Moderate,No Drought
+2018-09-01,19,Extreme,Extreme
+2018-10-01,19,Extreme,Extreme
+2018-11-01,19,Moderate,Moderate
+2018-12-01,19,Moderate,Moderate
+2019-01-01,19,No Drought,No Drought
+2019-02-01,19,No Drought,No Drought
+2019-03-01,19,No Drought,No Drought
+2019-04-01,19,No Drought,No Drought
+2019-05-01,19,No Drought,No Drought
+2019-06-01,19,No Drought,No Drought
+2019-07-01,19,No Drought,No Drought
+2019-08-01,19,No Drought,No Drought
+2019-09-01,19,Extreme,Extreme
+2019-10-01,19,Extreme,Extreme
+2019-11-01,19,Moderate,Extreme
+2019-12-01,19,Moderate,Moderate
+2020-01-01,19,No Drought,No Drought
+2020-02-01,19,No Drought,No Drought
+2020-03-01,19,No Drought,No Drought
+2020-04-01,19,No Drought,No Drought
+2020-05-01,19,No Drought,No Drought
+2020-06-01,19,No Drought,No Drought
+2020-07-01,19,No Drought,No Drought
+2020-08-01,19,No Drought,No Drought
+2020-09-01,19,Extreme,Extreme
+2020-10-01,19,Extreme,Extreme
+2020-11-01,19,Extreme,Extreme
+2020-12-01,19,Moderate,Moderate
+2021-01-01,19,No Drought,No Drought
+2021-02-01,19,No Drought,No Drought
+2021-03-01,19,No Drought,No Drought
+2021-04-01,19,No Drought,No Drought
+2021-05-01,19,No Drought,No Drought
+2021-06-01,19,No Drought,No Drought
+2021-07-01,19,No Drought,No Drought
+2021-08-01,19,No Drought,No Drought
+2021-09-01,19,Extreme,Extreme
+2021-10-01,19,Extreme,Extreme
+2021-11-01,19,Extreme,Extreme
+2021-12-01,19,Moderate,Moderate
+2022-01-01,19,No Drought,No Drought
+2022-02-01,19,No Drought,No Drought
+2022-03-01,19,No Drought,No Drought
+2022-04-01,19,No Drought,No Drought
+2022-05-01,19,No Drought,No Drought
+2022-06-01,19,No Drought,No Drought
+2022-07-01,19,No Drought,No Drought
+2022-08-01,19,No Drought,No Drought
+2022-09-01,19,Extreme,Extreme
+2022-10-01,19,Extreme,Extreme
+2022-11-01,19,Moderate,Extreme
+2022-12-01,19,No Drought,Moderate
+2023-01-01,19,No Drought,No Drought
+2023-02-01,19,No Drought,No Drought
+2023-03-01,19,No Drought,No Drought
+2023-04-01,19,No Drought,No Drought
+2023-05-01,19,No Drought,No Drought
+2023-06-01,19,No Drought,No Drought
+2023-07-01,19,No Drought,No Drought
+2023-08-01,19,No Drought,No Drought
+2023-09-01,19,No Drought,No Drought
+2023-10-01,19,Extreme,Extreme
+2023-11-01,19,Moderate,Extreme
+2023-12-01,19,Moderate,Moderate
+2024-01-01,19,No Drought,No Drought
+2024-02-01,19,No Drought,No Drought
+2024-03-01,19,No Drought,No Drought
+2024-04-01,19,No Drought,No Drought
+2024-05-01,19,No Drought,No Drought
+2024-06-01,19,No Drought,No Drought
+2016-06-01,20,No Drought,No Drought
+2016-07-01,20,No Drought,No Drought
+2016-08-01,20,Moderate,Extreme
+2016-09-01,20,Extreme,Extreme
+2016-10-01,20,Extreme,Extreme
+2016-11-01,20,Extreme,Extreme
+2016-12-01,20,Extreme,Extreme
+2017-01-01,20,Extreme,Extreme
+2017-02-01,20,No Drought,No Drought
+2017-03-01,20,No Drought,No Drought
+2017-04-01,20,No Drought,No Drought
+2017-05-01,20,No Drought,No Drought
+2017-06-01,20,No Drought,No Drought
+2017-07-01,20,No Drought,No Drought
+2017-08-01,20,Extreme,Extreme
+2017-09-01,20,Extreme,Extreme
+2017-10-01,20,Extreme,Extreme
+2017-11-01,20,Extreme,Extreme
+2017-12-01,20,Extreme,Extreme
+2018-01-01,20,Extreme,Extreme
+2018-02-01,20,No Drought,No Drought
+2018-03-01,20,No Drought,No Drought
+2018-04-01,20,No Drought,No Drought
+2018-05-01,20,No Drought,No Drought
+2018-06-01,20,No Drought,No Drought
+2018-07-01,20,Moderate,No Drought
+2018-08-01,20,Extreme,Extreme
+2018-09-01,20,Extreme,Extreme
+2018-10-01,20,Extreme,Extreme
+2018-11-01,20,Extreme,Extreme
+2018-12-01,20,Extreme,Extreme
+2019-01-01,20,Extreme,Extreme
+2019-02-01,20,No Drought,No Drought
+2019-03-01,20,No Drought,No Drought
+2019-04-01,20,No Drought,No Drought
+2019-05-01,20,No Drought,No Drought
+2019-06-01,20,No Drought,No Drought
+2019-07-01,20,No Drought,No Drought
+2019-08-01,20,Extreme,Extreme
+2019-09-01,20,Extreme,Extreme
+2019-10-01,20,Extreme,Extreme
+2019-11-01,20,Extreme,Extreme
+2019-12-01,20,Extreme,Extreme
+2020-01-01,20,Extreme,Extreme
+2020-02-01,20,No Drought,No Drought
+2020-03-01,20,No Drought,No Drought
+2020-04-01,20,No Drought,No Drought
+2020-05-01,20,No Drought,No Drought
+2020-06-01,20,No Drought,No Drought
+2020-07-01,20,No Drought,No Drought
+2020-08-01,20,Extreme,Extreme
+2020-09-01,20,Extreme,Extreme
+2020-10-01,20,Extreme,Extreme
+2020-11-01,20,Extreme,Extreme
+2020-12-01,20,Extreme,Extreme
+2021-01-01,20,Moderate,Extreme
+2021-02-01,20,No Drought,No Drought
+2021-03-01,20,No Drought,No Drought
+2021-04-01,20,No Drought,No Drought
+2021-05-01,20,No Drought,No Drought
+2021-06-01,20,No Drought,No Drought
+2021-07-01,20,No Drought,No Drought
+2021-08-01,20,Extreme,No Drought
+2021-09-01,20,Extreme,Extreme
+2021-10-01,20,Extreme,Extreme
+2021-11-01,20,Extreme,Extreme
+2021-12-01,20,Extreme,Extreme
+2022-01-01,20,Extreme,No Drought
+2022-02-01,20,No Drought,No Drought
+2022-03-01,20,No Drought,No Drought
+2022-04-01,20,No Drought,No Drought
+2022-05-01,20,No Drought,No Drought
+2022-06-01,20,No Drought,No Drought
+2022-07-01,20,No Drought,No Drought
+2022-08-01,20,Moderate,No Drought
+2022-09-01,20,Extreme,Extreme
+2022-10-01,20,Extreme,Extreme
+2022-11-01,20,Extreme,Extreme
+2022-12-01,20,Extreme,Extreme
+2023-01-01,20,Extreme,Extreme
+2023-02-01,20,No Drought,No Drought
+2023-03-01,20,No Drought,No Drought
+2023-04-01,20,No Drought,No Drought
+2023-05-01,20,No Drought,No Drought
+2023-06-01,20,No Drought,No Drought
+2023-07-01,20,No Drought,No Drought
+2023-08-01,20,Moderate,Extreme
+2023-09-01,20,Extreme,Extreme
+2023-10-01,20,Extreme,Extreme
+2023-11-01,20,Extreme,Extreme
+2023-12-01,20,Extreme,Extreme
+2024-01-01,20,Extreme,Extreme
+2024-02-01,20,No Drought,No Drought
+2024-03-01,20,No Drought,No Drought
+2024-04-01,20,No Drought,No Drought
+2024-05-01,20,No Drought,No Drought
+2024-06-01,20,No Drought,No Drought
+2016-06-01,21,No Drought,No Drought
+2016-07-01,21,No Drought,No Drought
+2016-08-01,21,Moderate,No Drought
+2016-09-01,21,Extreme,Extreme
+2016-10-01,21,Extreme,Extreme
+2016-11-01,21,Extreme,Extreme
+2016-12-01,21,Extreme,Extreme
+2017-01-01,21,Extreme,Extreme
+2017-02-01,21,No Drought,No Drought
+2017-03-01,21,No Drought,No Drought
+2017-04-01,21,No Drought,No Drought
+2017-05-01,21,No Drought,No Drought
+2017-06-01,21,No Drought,No Drought
+2017-07-01,21,No Drought,No Drought
+2017-08-01,21,Moderate,Extreme
+2017-09-01,21,Extreme,Extreme
+2017-10-01,21,Extreme,Extreme
+2017-11-01,21,Extreme,Extreme
+2017-12-01,21,Extreme,Extreme
+2018-01-01,21,Extreme,Extreme
+2018-02-01,21,No Drought,No Drought
+2018-03-01,21,No Drought,No Drought
+2018-04-01,21,No Drought,No Drought
+2018-05-01,21,No Drought,No Drought
+2018-06-01,21,No Drought,No Drought
+2018-07-01,21,Moderate,No Drought
+2018-08-01,21,Extreme,Extreme
+2018-09-01,21,Extreme,Extreme
+2018-10-01,21,Extreme,Extreme
+2018-11-01,21,Extreme,Extreme
+2018-12-01,21,Extreme,Extreme
+2019-01-01,21,Extreme,Extreme
+2019-02-01,21,No Drought,No Drought
+2019-03-01,21,No Drought,No Drought
+2019-04-01,21,No Drought,No Drought
+2019-05-01,21,No Drought,No Drought
+2019-06-01,21,No Drought,No Drought
+2019-07-01,21,No Drought,No Drought
+2019-08-01,21,No Drought,No Drought
+2019-09-01,21,Extreme,Extreme
+2019-10-01,21,Extreme,Extreme
+2019-11-01,21,Extreme,Extreme
+2019-12-01,21,Extreme,Extreme
+2020-01-01,21,Extreme,Extreme
+2020-02-01,21,No Drought,No Drought
+2020-03-01,21,No Drought,No Drought
+2020-04-01,21,No Drought,No Drought
+2020-05-01,21,No Drought,No Drought
+2020-06-01,21,No Drought,No Drought
+2020-07-01,21,No Drought,No Drought
+2020-08-01,21,No Drought,Extreme
+2020-09-01,21,Extreme,Extreme
+2020-10-01,21,Extreme,Extreme
+2020-11-01,21,Extreme,Extreme
+2020-12-01,21,Extreme,Extreme
+2021-01-01,21,Extreme,Extreme
+2021-02-01,21,No Drought,No Drought
+2021-03-01,21,No Drought,No Drought
+2021-04-01,21,No Drought,No Drought
+2021-05-01,21,No Drought,No Drought
+2021-06-01,21,No Drought,No Drought
+2021-07-01,21,No Drought,No Drought
+2021-08-01,21,Moderate,No Drought
+2021-09-01,21,Extreme,Extreme
+2021-10-01,21,Extreme,Extreme
+2021-11-01,21,Extreme,Extreme
+2021-12-01,21,Extreme,Extreme
+2022-01-01,21,Extreme,Extreme
+2022-02-01,21,No Drought,No Drought
+2022-03-01,21,No Drought,No Drought
+2022-04-01,21,No Drought,No Drought
+2022-05-01,21,No Drought,No Drought
+2022-06-01,21,No Drought,No Drought
+2022-07-01,21,No Drought,No Drought
+2022-08-01,21,No Drought,No Drought
+2022-09-01,21,Extreme,Extreme
+2022-10-01,21,Extreme,Extreme
+2022-11-01,21,Extreme,Extreme
+2022-12-01,21,Extreme,Extreme
+2023-01-01,21,Extreme,Extreme
+2023-02-01,21,No Drought,No Drought
+2023-03-01,21,No Drought,No Drought
+2023-04-01,21,No Drought,No Drought
+2023-05-01,21,No Drought,No Drought
+2023-06-01,21,No Drought,No Drought
+2023-07-01,21,No Drought,No Drought
+2023-08-01,21,Extreme,No Drought
+2023-09-01,21,Extreme,Extreme
+2023-10-01,21,Extreme,Extreme
+2023-11-01,21,Extreme,Extreme
+2023-12-01,21,Extreme,Extreme
+2024-01-01,21,Extreme,Extreme
+2024-02-01,21,No Drought,No Drought
+2024-03-01,21,No Drought,No Drought
+2024-04-01,21,No Drought,No Drought
+2024-05-01,21,No Drought,No Drought
+2024-06-01,21,No Drought,No Drought
+2016-06-01,22,No Drought,No Drought
+2016-07-01,22,No Drought,No Drought
+2016-08-01,22,No Drought,No Drought
+2016-09-01,22,Extreme,Extreme
+2016-10-01,22,Extreme,Extreme
+2016-11-01,22,Extreme,Extreme
+2016-12-01,22,Extreme,Extreme
+2017-01-01,22,Moderate,Moderate
+2017-02-01,22,No Drought,No Drought
+2017-03-01,22,No Drought,No Drought
+2017-04-01,22,No Drought,No Drought
+2017-05-01,22,No Drought,No Drought
+2017-06-01,22,No Drought,No Drought
+2017-07-01,22,No Drought,No Drought
+2017-08-01,22,No Drought,No Drought
+2017-09-01,22,Extreme,Extreme
+2017-10-01,22,Extreme,Extreme
+2017-11-01,22,Extreme,Extreme
+2017-12-01,22,Extreme,Extreme
+2018-01-01,22,No Drought,No Drought
+2018-02-01,22,No Drought,No Drought
+2018-03-01,22,No Drought,No Drought
+2018-04-01,22,No Drought,No Drought
+2018-05-01,22,No Drought,No Drought
+2018-06-01,22,No Drought,No Drought
+2018-07-01,22,No Drought,No Drought
+2018-08-01,22,Moderate,No Drought
+2018-09-01,22,Extreme,Extreme
+2018-10-01,22,Extreme,Extreme
+2018-11-01,22,Extreme,Extreme
+2018-12-01,22,Moderate,Extreme
+2019-01-01,22,Moderate,Moderate
+2019-02-01,22,No Drought,No Drought
+2019-03-01,22,No Drought,No Drought
+2019-04-01,22,No Drought,No Drought
+2019-05-01,22,No Drought,No Drought
+2019-06-01,22,No Drought,No Drought
+2019-07-01,22,No Drought,No Drought
+2019-08-01,22,No Drought,No Drought
+2019-09-01,22,Extreme,Extreme
+2019-10-01,22,Extreme,Extreme
+2019-11-01,22,Extreme,Extreme
+2019-12-01,22,Extreme,Extreme
+2020-01-01,22,No Drought,No Drought
+2020-02-01,22,No Drought,No Drought
+2020-03-01,22,No Drought,No Drought
+2020-04-01,22,No Drought,No Drought
+2020-05-01,22,No Drought,No Drought
+2020-06-01,22,No Drought,No Drought
+2020-07-01,22,No Drought,No Drought
+2020-08-01,22,No Drought,No Drought
+2020-09-01,22,Extreme,Extreme
+2020-10-01,22,Extreme,Extreme
+2020-11-01,22,Extreme,Extreme
+2020-12-01,22,Moderate,Moderate
+2021-01-01,22,No Drought,No Drought
+2021-02-01,22,No Drought,No Drought
+2021-03-01,22,No Drought,No Drought
+2021-04-01,22,No Drought,No Drought
+2021-05-01,22,No Drought,No Drought
+2021-06-01,22,No Drought,No Drought
+2021-07-01,22,No Drought,No Drought
+2021-08-01,22,No Drought,No Drought
+2021-09-01,22,Extreme,Extreme
+2021-10-01,22,Extreme,Extreme
+2021-11-01,22,Extreme,Extreme
+2021-12-01,22,Moderate,Extreme
+2022-01-01,22,No Drought,No Drought
+2022-02-01,22,No Drought,No Drought
+2022-03-01,22,No Drought,No Drought
+2022-04-01,22,No Drought,No Drought
+2022-05-01,22,No Drought,No Drought
+2022-06-01,22,No Drought,No Drought
+2022-07-01,22,No Drought,No Drought
+2022-08-01,22,No Drought,No Drought
+2022-09-01,22,Extreme,Extreme
+2022-10-01,22,Extreme,Extreme
+2022-11-01,22,Extreme,Extreme
+2022-12-01,22,Moderate,Extreme
+2023-01-01,22,No Drought,No Drought
+2023-02-01,22,No Drought,No Drought
+2023-03-01,22,No Drought,No Drought
+2023-04-01,22,No Drought,No Drought
+2023-05-01,22,No Drought,No Drought
+2023-06-01,22,No Drought,No Drought
+2023-07-01,22,No Drought,No Drought
+2023-08-01,22,No Drought,No Drought
+2023-09-01,22,No Drought,No Drought
+2023-10-01,22,Extreme,Extreme
+2023-11-01,22,Extreme,Extreme
+2023-12-01,22,Extreme,Extreme
+2024-01-01,22,No Drought,No Drought
+2024-02-01,22,No Drought,No Drought
+2024-03-01,22,No Drought,No Drought
+2024-04-01,22,No Drought,No Drought
+2024-05-01,22,No Drought,No Drought
+2024-06-01,22,No Drought,No Drought
+2016-06-01,23,No Drought,No Drought
+2016-07-01,23,No Drought,No Drought
+2016-08-01,23,No Drought,No Drought
+2016-09-01,23,Extreme,Extreme
+2016-10-01,23,Extreme,Extreme
+2016-11-01,23,Extreme,Extreme
+2016-12-01,23,Extreme,Extreme
+2017-01-01,23,Moderate,Moderate
+2017-02-01,23,No Drought,No Drought
+2017-03-01,23,No Drought,No Drought
+2017-04-01,23,No Drought,No Drought
+2017-05-01,23,No Drought,No Drought
+2017-06-01,23,No Drought,No Drought
+2017-07-01,23,No Drought,No Drought
+2017-08-01,23,No Drought,No Drought
+2017-09-01,23,Extreme,Extreme
+2017-10-01,23,Extreme,Extreme
+2017-11-01,23,Extreme,Extreme
+2017-12-01,23,Moderate,Extreme
+2018-01-01,23,No Drought,No Drought
+2018-02-01,23,No Drought,No Drought
+2018-03-01,23,No Drought,No Drought
+2018-04-01,23,No Drought,No Drought
+2018-05-01,23,No Drought,No Drought
+2018-06-01,23,No Drought,No Drought
+2018-07-01,23,No Drought,No Drought
+2018-08-01,23,Extreme,No Drought
+2018-09-01,23,Extreme,Extreme
+2018-10-01,23,Extreme,Extreme
+2018-11-01,23,Extreme,Extreme
+2018-12-01,23,Moderate,Extreme
+2019-01-01,23,Moderate,No Drought
+2019-02-01,23,No Drought,No Drought
+2019-03-01,23,No Drought,No Drought
+2019-04-01,23,No Drought,No Drought
+2019-05-01,23,No Drought,No Drought
+2019-06-01,23,No Drought,No Drought
+2019-07-01,23,No Drought,No Drought
+2019-08-01,23,No Drought,No Drought
+2019-09-01,23,Extreme,Extreme
+2019-10-01,23,Extreme,Extreme
+2019-11-01,23,Extreme,Extreme
+2019-12-01,23,Extreme,Extreme
+2020-01-01,23,No Drought,No Drought
+2020-02-01,23,No Drought,No Drought
+2020-03-01,23,No Drought,No Drought
+2020-04-01,23,No Drought,No Drought
+2020-05-01,23,No Drought,No Drought
+2020-06-01,23,No Drought,No Drought
+2020-07-01,23,No Drought,No Drought
+2020-08-01,23,No Drought,No Drought
+2020-09-01,23,Extreme,Extreme
+2020-10-01,23,Extreme,Extreme
+2020-11-01,23,Extreme,Extreme
+2020-12-01,23,Extreme,Moderate
+2021-01-01,23,No Drought,No Drought
+2021-02-01,23,No Drought,No Drought
+2021-03-01,23,No Drought,No Drought
+2021-04-01,23,No Drought,No Drought
+2021-05-01,23,No Drought,No Drought
+2021-06-01,23,No Drought,No Drought
+2021-07-01,23,No Drought,No Drought
+2021-08-01,23,No Drought,No Drought
+2021-09-01,23,Extreme,Extreme
+2021-10-01,23,Extreme,Extreme
+2021-11-01,23,Extreme,Extreme
+2021-12-01,23,Extreme,Extreme
+2022-01-01,23,Moderate,No Drought
+2022-02-01,23,No Drought,No Drought
+2022-03-01,23,No Drought,No Drought
+2022-04-01,23,No Drought,No Drought
+2022-05-01,23,No Drought,No Drought
+2022-06-01,23,No Drought,No Drought
+2022-07-01,23,No Drought,No Drought
+2022-08-01,23,No Drought,No Drought
+2022-09-01,23,Extreme,Extreme
+2022-10-01,23,Extreme,Extreme
+2022-11-01,23,Extreme,Extreme
+2022-12-01,23,Moderate,Extreme
+2023-01-01,23,No Drought,No Drought
+2023-02-01,23,No Drought,No Drought
+2023-03-01,23,No Drought,No Drought
+2023-04-01,23,No Drought,No Drought
+2023-05-01,23,No Drought,No Drought
+2023-06-01,23,No Drought,No Drought
+2023-07-01,23,No Drought,No Drought
+2023-08-01,23,No Drought,No Drought
+2023-09-01,23,No Drought,No Drought
+2023-10-01,23,Extreme,Extreme
+2023-11-01,23,Extreme,Extreme
+2023-12-01,23,Extreme,Extreme
+2024-01-01,23,Moderate,Moderate
+2024-02-01,23,No Drought,No Drought
+2024-03-01,23,No Drought,No Drought
+2024-04-01,23,No Drought,No Drought
+2024-05-01,23,No Drought,No Drought
+2024-06-01,23,No Drought,No Drought
+2016-06-01,24,No Drought,No Drought
+2016-07-01,24,No Drought,No Drought
+2016-08-01,24,No Drought,No Drought
+2016-09-01,24,Extreme,Extreme
+2016-10-01,24,Extreme,Extreme
+2016-11-01,24,Extreme,Extreme
+2016-12-01,24,Extreme,Extreme
+2017-01-01,24,Extreme,Extreme
+2017-02-01,24,No Drought,No Drought
+2017-03-01,24,No Drought,No Drought
+2017-04-01,24,No Drought,No Drought
+2017-05-01,24,No Drought,No Drought
+2017-06-01,24,No Drought,No Drought
+2017-07-01,24,No Drought,No Drought
+2017-08-01,24,No Drought,No Drought
+2017-09-01,24,Extreme,Extreme
+2017-10-01,24,Extreme,Extreme
+2017-11-01,24,Extreme,Extreme
+2017-12-01,24,Extreme,Extreme
+2018-01-01,24,Moderate,No Drought
+2018-02-01,24,No Drought,No Drought
+2018-03-01,24,No Drought,No Drought
+2018-04-01,24,No Drought,No Drought
+2018-05-01,24,No Drought,No Drought
+2018-06-01,24,No Drought,No Drought
+2018-07-01,24,No Drought,No Drought
+2018-08-01,24,No Drought,No Drought
+2018-09-01,24,Extreme,Extreme
+2018-10-01,24,Extreme,Extreme
+2018-11-01,24,Extreme,Extreme
+2018-12-01,24,Extreme,Extreme
+2019-01-01,24,Extreme,Extreme
+2019-02-01,24,No Drought,No Drought
+2019-03-01,24,No Drought,No Drought
+2019-04-01,24,No Drought,No Drought
+2019-05-01,24,No Drought,No Drought
+2019-06-01,24,No Drought,No Drought
+2019-07-01,24,No Drought,No Drought
+2019-08-01,24,No Drought,No Drought
+2019-09-01,24,Extreme,Extreme
+2019-10-01,24,Extreme,Extreme
+2019-11-01,24,Extreme,Extreme
+2019-12-01,24,Extreme,Extreme
+2020-01-01,24,Moderate,Extreme
+2020-02-01,24,No Drought,No Drought
+2020-03-01,24,No Drought,No Drought
+2020-04-01,24,No Drought,No Drought
+2020-05-01,24,No Drought,No Drought
+2020-06-01,24,No Drought,No Drought
+2020-07-01,24,No Drought,No Drought
+2020-08-01,24,No Drought,No Drought
+2020-09-01,24,Extreme,Extreme
+2020-10-01,24,Extreme,Extreme
+2020-11-01,24,Extreme,Extreme
+2020-12-01,24,Extreme,Extreme
+2021-01-01,24,No Drought,No Drought
+2021-02-01,24,No Drought,No Drought
+2021-03-01,24,No Drought,No Drought
+2021-04-01,24,No Drought,No Drought
+2021-05-01,24,No Drought,No Drought
+2021-06-01,24,No Drought,No Drought
+2021-07-01,24,No Drought,No Drought
+2021-08-01,24,No Drought,No Drought
+2021-09-01,24,No Drought,Extreme
+2021-10-01,24,Extreme,Extreme
+2021-11-01,24,Extreme,Extreme
+2021-12-01,24,Extreme,Extreme
+2022-01-01,24,Extreme,No Drought
+2022-02-01,24,No Drought,No Drought
+2022-03-01,24,No Drought,No Drought
+2022-04-01,24,No Drought,No Drought
+2022-05-01,24,No Drought,No Drought
+2022-06-01,24,No Drought,No Drought
+2022-07-01,24,No Drought,No Drought
+2022-08-01,24,No Drought,No Drought
+2022-09-01,24,Extreme,No Drought
+2022-10-01,24,Extreme,Extreme
+2022-11-01,24,Extreme,Extreme
+2022-12-01,24,Extreme,Extreme
+2023-01-01,24,Moderate,No Drought
+2023-02-01,24,No Drought,No Drought
+2023-03-01,24,No Drought,No Drought
+2023-04-01,24,No Drought,No Drought
+2023-05-01,24,No Drought,No Drought
+2023-06-01,24,No Drought,No Drought
+2023-07-01,24,No Drought,No Drought
+2023-08-01,24,No Drought,No Drought
+2023-09-01,24,No Drought,No Drought
+2023-10-01,24,Extreme,Extreme
+2023-11-01,24,Extreme,Extreme
+2023-12-01,24,Extreme,Extreme
+2024-01-01,24,Moderate,No Drought
+2024-02-01,24,No Drought,No Drought
+2024-03-01,24,No Drought,No Drought
+2024-04-01,24,No Drought,No Drought
+2024-05-01,24,No Drought,No Drought
+2024-06-01,24,No Drought,No Drought
+2016-06-01,25,No Drought,No Drought
+2016-07-01,25,No Drought,No Drought
+2016-08-01,25,Extreme,Extreme
+2016-09-01,25,Extreme,Extreme
+2016-10-01,25,Extreme,Extreme
+2016-11-01,25,Extreme,Extreme
+2016-12-01,25,Extreme,Extreme
+2017-01-01,25,Extreme,Extreme
+2017-02-01,25,No Drought,No Drought
+2017-03-01,25,No Drought,No Drought
+2017-04-01,25,No Drought,No Drought
+2017-05-01,25,No Drought,No Drought
+2017-06-01,25,No Drought,No Drought
+2017-07-01,25,No Drought,No Drought
+2017-08-01,25,Moderate,Extreme
+2017-09-01,25,Extreme,Extreme
+2017-10-01,25,Extreme,Extreme
+2017-11-01,25,Extreme,Extreme
+2017-12-01,25,Extreme,Extreme
+2018-01-01,25,Extreme,Extreme
+2018-02-01,25,No Drought,No Drought
+2018-03-01,25,No Drought,No Drought
+2018-04-01,25,No Drought,No Drought
+2018-05-01,25,No Drought,No Drought
+2018-06-01,25,No Drought,No Drought
+2018-07-01,25,Moderate,No Drought
+2018-08-01,25,Extreme,Extreme
+2018-09-01,25,Extreme,Extreme
+2018-10-01,25,Extreme,Extreme
+2018-11-01,25,Extreme,Extreme
+2018-12-01,25,Extreme,Extreme
+2019-01-01,25,Extreme,Extreme
+2019-02-01,25,No Drought,No Drought
+2019-03-01,25,No Drought,No Drought
+2019-04-01,25,No Drought,No Drought
+2019-05-01,25,No Drought,No Drought
+2019-06-01,25,No Drought,No Drought
+2019-07-01,25,No Drought,No Drought
+2019-08-01,25,No Drought,Extreme
+2019-09-01,25,Extreme,Extreme
+2019-10-01,25,Extreme,Extreme
+2019-11-01,25,Extreme,Extreme
+2019-12-01,25,Extreme,Extreme
+2020-01-01,25,Extreme,Extreme
+2020-02-01,25,No Drought,No Drought
+2020-03-01,25,No Drought,No Drought
+2020-04-01,25,No Drought,No Drought
+2020-05-01,25,No Drought,No Drought
+2020-06-01,25,No Drought,No Drought
+2020-07-01,25,No Drought,No Drought
+2020-08-01,25,No Drought,No Drought
+2020-09-01,25,Extreme,Extreme
+2020-10-01,25,Extreme,Extreme
+2020-11-01,25,Extreme,Extreme
+2020-12-01,25,Extreme,Extreme
+2021-01-01,25,Extreme,Extreme
+2021-02-01,25,No Drought,No Drought
+2021-03-01,25,No Drought,No Drought
+2021-04-01,25,No Drought,No Drought
+2021-05-01,25,No Drought,No Drought
+2021-06-01,25,No Drought,No Drought
+2021-07-01,25,No Drought,No Drought
+2021-08-01,25,Moderate,No Drought
+2021-09-01,25,Extreme,Extreme
+2021-10-01,25,Extreme,Extreme
+2021-11-01,25,Extreme,Extreme
+2021-12-01,25,Extreme,Extreme
+2022-01-01,25,Extreme,Extreme
+2022-02-01,25,No Drought,No Drought
+2022-03-01,25,No Drought,No Drought
+2022-04-01,25,No Drought,No Drought
+2022-05-01,25,No Drought,No Drought
+2022-06-01,25,No Drought,No Drought
+2022-07-01,25,No Drought,No Drought
+2022-08-01,25,No Drought,No Drought
+2022-09-01,25,Extreme,Extreme
+2022-10-01,25,Extreme,Extreme
+2022-11-01,25,Extreme,Extreme
+2022-12-01,25,Extreme,Extreme
+2023-01-01,25,Extreme,Extreme
+2023-02-01,25,No Drought,No Drought
+2023-03-01,25,No Drought,No Drought
+2023-04-01,25,No Drought,No Drought
+2023-05-01,25,No Drought,No Drought
+2023-06-01,25,No Drought,No Drought
+2023-07-01,25,No Drought,No Drought
+2023-08-01,25,Extreme,No Drought
+2023-09-01,25,Extreme,Extreme
+2023-10-01,25,Extreme,Extreme
+2023-11-01,25,Extreme,Extreme
+2023-12-01,25,Extreme,Extreme
+2024-01-01,25,Extreme,Extreme
+2024-02-01,25,No Drought,No Drought
+2024-03-01,25,No Drought,No Drought
+2024-04-01,25,No Drought,No Drought
+2024-05-01,25,No Drought,No Drought
+2024-06-01,25,No Drought,No Drought
+2016-06-01,26,No Drought,No Drought
+2016-07-01,26,No Drought,No Drought
+2016-08-01,26,Extreme,Extreme
+2016-09-01,26,Extreme,Extreme
+2016-10-01,26,Extreme,Extreme
+2016-11-01,26,Extreme,Extreme
+2016-12-01,26,Extreme,Extreme
+2017-01-01,26,Extreme,Extreme
+2017-02-01,26,No Drought,No Drought
+2017-03-01,26,No Drought,No Drought
+2017-04-01,26,No Drought,No Drought
+2017-05-01,26,No Drought,No Drought
+2017-06-01,26,No Drought,No Drought
+2017-07-01,26,No Drought,No Drought
+2017-08-01,26,Moderate,Extreme
+2017-09-01,26,Extreme,Extreme
+2017-10-01,26,Extreme,Extreme
+2017-11-01,26,Extreme,Extreme
+2017-12-01,26,Extreme,Extreme
+2018-01-01,26,Extreme,Extreme
+2018-02-01,26,No Drought,No Drought
+2018-03-01,26,No Drought,No Drought
+2018-04-01,26,No Drought,No Drought
+2018-05-01,26,No Drought,No Drought
+2018-06-01,26,No Drought,No Drought
+2018-07-01,26,Moderate,No Drought
+2018-08-01,26,Extreme,No Drought
+2018-09-01,26,Extreme,Extreme
+2018-10-01,26,Extreme,Extreme
+2018-11-01,26,Extreme,Extreme
+2018-12-01,26,Extreme,Extreme
+2019-01-01,26,Extreme,Extreme
+2019-02-01,26,No Drought,No Drought
+2019-03-01,26,No Drought,No Drought
+2019-04-01,26,No Drought,No Drought
+2019-05-01,26,No Drought,No Drought
+2019-06-01,26,No Drought,No Drought
+2019-07-01,26,No Drought,No Drought
+2019-08-01,26,No Drought,No Drought
+2019-09-01,26,Extreme,Extreme
+2019-10-01,26,Extreme,Extreme
+2019-11-01,26,Extreme,Extreme
+2019-12-01,26,Extreme,Extreme
+2020-01-01,26,Extreme,Extreme
+2020-02-01,26,No Drought,No Drought
+2020-03-01,26,No Drought,No Drought
+2020-04-01,26,No Drought,No Drought
+2020-05-01,26,No Drought,No Drought
+2020-06-01,26,No Drought,No Drought
+2020-07-01,26,No Drought,No Drought
+2020-08-01,26,No Drought,No Drought
+2020-09-01,26,Extreme,Extreme
+2020-10-01,26,Extreme,Extreme
+2020-11-01,26,Extreme,Extreme
+2020-12-01,26,Extreme,Extreme
+2021-01-01,26,Extreme,Extreme
+2021-02-01,26,No Drought,No Drought
+2021-03-01,26,No Drought,No Drought
+2021-04-01,26,No Drought,No Drought
+2021-05-01,26,No Drought,No Drought
+2021-06-01,26,No Drought,No Drought
+2021-07-01,26,No Drought,No Drought
+2021-08-01,26,Moderate,No Drought
+2021-09-01,26,Extreme,Extreme
+2021-10-01,26,Extreme,Extreme
+2021-11-01,26,Extreme,Extreme
+2021-12-01,26,Extreme,Extreme
+2022-01-01,26,Extreme,Extreme
+2022-02-01,26,No Drought,Moderate
+2022-03-01,26,No Drought,No Drought
+2022-04-01,26,No Drought,No Drought
+2022-05-01,26,No Drought,No Drought
+2022-06-01,26,No Drought,No Drought
+2022-07-01,26,No Drought,No Drought
+2022-08-01,26,Moderate,No Drought
+2022-09-01,26,Extreme,Extreme
+2022-10-01,26,Extreme,Extreme
+2022-11-01,26,Extreme,Extreme
+2022-12-01,26,Extreme,Extreme
+2023-01-01,26,Extreme,Extreme
+2023-02-01,26,No Drought,No Drought
+2023-03-01,26,No Drought,No Drought
+2023-04-01,26,No Drought,No Drought
+2023-05-01,26,No Drought,No Drought
+2023-06-01,26,No Drought,No Drought
+2023-07-01,26,No Drought,No Drought
+2023-08-01,26,Moderate,No Drought
+2023-09-01,26,Extreme,Extreme
+2023-10-01,26,Extreme,Extreme
+2023-11-01,26,Extreme,Extreme
+2023-12-01,26,Extreme,Extreme
+2024-01-01,26,Extreme,Extreme
+2024-02-01,26,No Drought,No Drought
+2024-03-01,26,No Drought,No Drought
+2024-04-01,26,No Drought,No Drought
+2024-05-01,26,No Drought,No Drought
+2024-06-01,26,No Drought,No Drought
+2016-06-01,27,No Drought,No Drought
+2016-07-01,27,No Drought,No Drought
+2016-08-01,27,Moderate,No Drought
+2016-09-01,27,Extreme,Extreme
+2016-10-01,27,Extreme,Extreme
+2016-11-01,27,Extreme,Extreme
+2016-12-01,27,Extreme,Extreme
+2017-01-01,27,Moderate,Moderate
+2017-02-01,27,No Drought,No Drought
+2017-03-01,27,No Drought,No Drought
+2017-04-01,27,No Drought,No Drought
+2017-05-01,27,No Drought,No Drought
+2017-06-01,27,No Drought,No Drought
+2017-07-01,27,No Drought,No Drought
+2017-08-01,27,No Drought,No Drought
+2017-09-01,27,Extreme,Extreme
+2017-10-01,27,Extreme,Extreme
+2017-11-01,27,Extreme,Extreme
+2017-12-01,27,Extreme,Extreme
+2018-01-01,27,No Drought,No Drought
+2018-02-01,27,No Drought,No Drought
+2018-03-01,27,No Drought,No Drought
+2018-04-01,27,No Drought,No Drought
+2018-05-01,27,No Drought,No Drought
+2018-06-01,27,No Drought,No Drought
+2018-07-01,27,No Drought,No Drought
+2018-08-01,27,No Drought,No Drought
+2018-09-01,27,Extreme,Extreme
+2018-10-01,27,Extreme,Extreme
+2018-11-01,27,Extreme,Extreme
+2018-12-01,27,Extreme,Extreme
+2019-01-01,27,Moderate,No Drought
+2019-02-01,27,No Drought,No Drought
+2019-03-01,27,No Drought,No Drought
+2019-04-01,27,No Drought,No Drought
+2019-05-01,27,No Drought,No Drought
+2019-06-01,27,No Drought,No Drought
+2019-07-01,27,No Drought,No Drought
+2019-08-01,27,No Drought,No Drought
+2019-09-01,27,Extreme,Extreme
+2019-10-01,27,Extreme,Extreme
+2019-11-01,27,Extreme,Extreme
+2019-12-01,27,Extreme,Extreme
+2020-01-01,27,No Drought,No Drought
+2020-02-01,27,No Drought,No Drought
+2020-03-01,27,No Drought,No Drought
+2020-04-01,27,No Drought,No Drought
+2020-05-01,27,No Drought,No Drought
+2020-06-01,27,No Drought,No Drought
+2020-07-01,27,No Drought,No Drought
+2020-08-01,27,No Drought,No Drought
+2020-09-01,27,Extreme,No Drought
+2020-10-01,27,Extreme,Extreme
+2020-11-01,27,Extreme,Extreme
+2020-12-01,27,Moderate,Extreme
+2021-01-01,27,No Drought,No Drought
+2021-02-01,27,No Drought,No Drought
+2021-03-01,27,No Drought,No Drought
+2021-04-01,27,No Drought,No Drought
+2021-05-01,27,No Drought,No Drought
+2021-06-01,27,No Drought,No Drought
+2021-07-01,27,No Drought,No Drought
+2021-08-01,27,No Drought,No Drought
+2021-09-01,27,Moderate,Extreme
+2021-10-01,27,Extreme,Extreme
+2021-11-01,27,Extreme,Extreme
+2021-12-01,27,Moderate,Moderate
+2022-01-01,27,No Drought,No Drought
+2022-02-01,27,No Drought,No Drought
+2022-03-01,27,No Drought,No Drought
+2022-04-01,27,No Drought,No Drought
+2022-05-01,27,No Drought,No Drought
+2022-06-01,27,No Drought,No Drought
+2022-07-01,27,No Drought,No Drought
+2022-08-01,27,No Drought,No Drought
+2022-09-01,27,Extreme,No Drought
+2022-10-01,27,Extreme,Extreme
+2022-11-01,27,Extreme,Extreme
+2022-12-01,27,Extreme,No Drought
+2023-01-01,27,Moderate,No Drought
+2023-02-01,27,No Drought,No Drought
+2023-03-01,27,No Drought,No Drought
+2023-04-01,27,No Drought,No Drought
+2023-05-01,27,No Drought,No Drought
+2023-06-01,27,No Drought,No Drought
+2023-07-01,27,No Drought,No Drought
+2023-08-01,27,No Drought,No Drought
+2023-09-01,27,Moderate,No Drought
+2023-10-01,27,Extreme,Extreme
+2023-11-01,27,Extreme,Extreme
+2023-12-01,27,Extreme,Extreme
+2024-01-01,27,No Drought,Moderate
+2024-02-01,27,No Drought,No Drought
+2024-03-01,27,No Drought,No Drought
+2024-04-01,27,No Drought,No Drought
+2024-05-01,27,No Drought,No Drought
+2024-06-01,27,No Drought,No Drought
+2016-06-01,28,No Drought,No Drought
+2016-07-01,28,No Drought,No Drought
+2016-08-01,28,Moderate,No Drought
+2016-09-01,28,Extreme,Extreme
+2016-10-01,28,Extreme,Extreme
+2016-11-01,28,Extreme,Extreme
+2016-12-01,28,Extreme,Extreme
+2017-01-01,28,Moderate,No Drought
+2017-02-01,28,No Drought,No Drought
+2017-03-01,28,No Drought,No Drought
+2017-04-01,28,No Drought,No Drought
+2017-05-01,28,No Drought,No Drought
+2017-06-01,28,No Drought,No Drought
+2017-07-01,28,No Drought,No Drought
+2017-08-01,28,No Drought,No Drought
+2017-09-01,28,Extreme,Extreme
+2017-10-01,28,Extreme,Extreme
+2017-11-01,28,Extreme,Extreme
+2017-12-01,28,Extreme,Extreme
+2018-01-01,28,No Drought,No Drought
+2018-02-01,28,No Drought,No Drought
+2018-03-01,28,No Drought,No Drought
+2018-04-01,28,No Drought,No Drought
+2018-05-01,28,No Drought,No Drought
+2018-06-01,28,No Drought,No Drought
+2018-07-01,28,No Drought,No Drought
+2018-08-01,28,No Drought,No Drought
+2018-09-01,28,Extreme,Extreme
+2018-10-01,28,Extreme,Extreme
+2018-11-01,28,Extreme,Extreme
+2018-12-01,28,Extreme,Extreme
+2019-01-01,28,Extreme,Moderate
+2019-02-01,28,No Drought,No Drought
+2019-03-01,28,No Drought,No Drought
+2019-04-01,28,No Drought,No Drought
+2019-05-01,28,No Drought,No Drought
+2019-06-01,28,No Drought,No Drought
+2019-07-01,28,No Drought,No Drought
+2019-08-01,28,No Drought,No Drought
+2019-09-01,28,Extreme,Extreme
+2019-10-01,28,Extreme,Extreme
+2019-11-01,28,Extreme,Extreme
+2019-12-01,28,Extreme,Extreme
+2020-01-01,28,Moderate,Moderate
+2020-02-01,28,No Drought,No Drought
+2020-03-01,28,No Drought,No Drought
+2020-04-01,28,No Drought,No Drought
+2020-05-01,28,No Drought,No Drought
+2020-06-01,28,No Drought,No Drought
+2020-07-01,28,No Drought,No Drought
+2020-08-01,28,No Drought,No Drought
+2020-09-01,28,Extreme,Extreme
+2020-10-01,28,Extreme,Extreme
+2020-11-01,28,Extreme,Extreme
+2020-12-01,28,Extreme,Extreme
+2021-01-01,28,No Drought,No Drought
+2021-02-01,28,No Drought,No Drought
+2021-03-01,28,No Drought,No Drought
+2021-04-01,28,No Drought,No Drought
+2021-05-01,28,No Drought,No Drought
+2021-06-01,28,No Drought,No Drought
+2021-07-01,28,No Drought,No Drought
+2021-08-01,28,No Drought,No Drought
+2021-09-01,28,No Drought,Extreme
+2021-10-01,28,Extreme,Extreme
+2021-11-01,28,Extreme,Extreme
+2021-12-01,28,Moderate,Extreme
+2022-01-01,28,No Drought,No Drought
+2022-02-01,28,No Drought,No Drought
+2022-03-01,28,No Drought,No Drought
+2022-04-01,28,No Drought,No Drought
+2022-05-01,28,No Drought,No Drought
+2022-06-01,28,No Drought,No Drought
+2022-07-01,28,No Drought,No Drought
+2022-08-01,28,No Drought,No Drought
+2022-09-01,28,Extreme,No Drought
+2022-10-01,28,Extreme,Extreme
+2022-11-01,28,Extreme,Extreme
+2022-12-01,28,Extreme,Extreme
+2023-01-01,28,Moderate,No Drought
+2023-02-01,28,No Drought,No Drought
+2023-03-01,28,No Drought,No Drought
+2023-04-01,28,No Drought,No Drought
+2023-05-01,28,No Drought,No Drought
+2023-06-01,28,No Drought,No Drought
+2023-07-01,28,No Drought,No Drought
+2023-08-01,28,No Drought,No Drought
+2023-09-01,28,No Drought,No Drought
+2023-10-01,28,Extreme,Extreme
+2023-11-01,28,Extreme,Extreme
+2023-12-01,28,Extreme,Extreme
+2024-01-01,28,No Drought,No Drought
+2024-02-01,28,No Drought,No Drought
+2024-03-01,28,No Drought,No Drought
+2024-04-01,28,No Drought,No Drought
+2024-05-01,28,No Drought,No Drought
+2024-06-01,28,No Drought,No Drought
+2016-06-01,29,No Drought,No Drought
+2016-07-01,29,No Drought,No Drought
+2016-08-01,29,Extreme,No Drought
+2016-09-01,29,Extreme,Extreme
+2016-10-01,29,Extreme,Extreme
+2016-11-01,29,Extreme,Extreme
+2016-12-01,29,Extreme,Extreme
+2017-01-01,29,Extreme,Extreme
+2017-02-01,29,No Drought,No Drought
+2017-03-01,29,No Drought,No Drought
+2017-04-01,29,No Drought,No Drought
+2017-05-01,29,No Drought,No Drought
+2017-06-01,29,No Drought,No Drought
+2017-07-01,29,No Drought,No Drought
+2017-08-01,29,Moderate,Extreme
+2017-09-01,29,Extreme,Extreme
+2017-10-01,29,Extreme,Extreme
+2017-11-01,29,Extreme,Extreme
+2017-12-01,29,Extreme,Extreme
+2018-01-01,29,Moderate,Extreme
+2018-02-01,29,No Drought,No Drought
+2018-03-01,29,No Drought,No Drought
+2018-04-01,29,No Drought,No Drought
+2018-05-01,29,No Drought,No Drought
+2018-06-01,29,No Drought,No Drought
+2018-07-01,29,Moderate,No Drought
+2018-08-01,29,Extreme,Extreme
+2018-09-01,29,Extreme,Extreme
+2018-10-01,29,Extreme,Extreme
+2018-11-01,29,Extreme,Extreme
+2018-12-01,29,Extreme,Extreme
+2019-01-01,29,Extreme,Moderate
+2019-02-01,29,No Drought,No Drought
+2019-03-01,29,No Drought,No Drought
+2019-04-01,29,No Drought,No Drought
+2019-05-01,29,No Drought,No Drought
+2019-06-01,29,No Drought,No Drought
+2019-07-01,29,No Drought,No Drought
+2019-08-01,29,No Drought,No Drought
+2019-09-01,29,Extreme,Extreme
+2019-10-01,29,Extreme,Extreme
+2019-11-01,29,Extreme,Extreme
+2019-12-01,29,Extreme,Extreme
+2020-01-01,29,Extreme,Extreme
+2020-02-01,29,No Drought,No Drought
+2020-03-01,29,No Drought,No Drought
+2020-04-01,29,No Drought,No Drought
+2020-05-01,29,No Drought,No Drought
+2020-06-01,29,No Drought,No Drought
+2020-07-01,29,No Drought,No Drought
+2020-08-01,29,No Drought,No Drought
+2020-09-01,29,Extreme,Extreme
+2020-10-01,29,Extreme,Extreme
+2020-11-01,29,Extreme,Extreme
+2020-12-01,29,Extreme,Extreme
+2021-01-01,29,Moderate,Extreme
+2021-02-01,29,No Drought,No Drought
+2021-03-01,29,No Drought,No Drought
+2021-04-01,29,No Drought,No Drought
+2021-05-01,29,No Drought,No Drought
+2021-06-01,29,No Drought,No Drought
+2021-07-01,29,No Drought,No Drought
+2021-08-01,29,No Drought,No Drought
+2021-09-01,29,Moderate,Extreme
+2021-10-01,29,Extreme,Extreme
+2021-11-01,29,Extreme,Extreme
+2021-12-01,29,Extreme,Extreme
+2022-01-01,29,Moderate,Moderate
+2022-02-01,29,No Drought,No Drought
+2022-03-01,29,No Drought,No Drought
+2022-04-01,29,No Drought,No Drought
+2022-05-01,29,No Drought,No Drought
+2022-06-01,29,No Drought,No Drought
+2022-07-01,29,No Drought,No Drought
+2022-08-01,29,No Drought,No Drought
+2022-09-01,29,Extreme,Extreme
+2022-10-01,29,Extreme,Extreme
+2022-11-01,29,Extreme,Extreme
+2022-12-01,29,Extreme,Extreme
+2023-01-01,29,Extreme,No Drought
+2023-02-01,29,No Drought,No Drought
+2023-03-01,29,No Drought,No Drought
+2023-04-01,29,No Drought,No Drought
+2023-05-01,29,No Drought,No Drought
+2023-06-01,29,No Drought,No Drought
+2023-07-01,29,No Drought,No Drought
+2023-08-01,29,Moderate,No Drought
+2023-09-01,29,Extreme,Extreme
+2023-10-01,29,Extreme,Extreme
+2023-11-01,29,Extreme,Extreme
+2023-12-01,29,Extreme,Extreme
+2024-01-01,29,Moderate,Extreme
+2024-02-01,29,No Drought,No Drought
+2024-03-01,29,No Drought,No Drought
+2024-04-01,29,No Drought,No Drought
+2024-05-01,29,No Drought,No Drought
+2024-06-01,29,No Drought,No Drought
+2016-06-01,30,No Drought,No Drought
+2016-07-01,30,No Drought,No Drought
+2016-08-01,30,No Drought,No Drought
+2016-09-01,30,Extreme,Extreme
+2016-10-01,30,Extreme,Extreme
+2016-11-01,30,Extreme,Extreme
+2016-12-01,30,Extreme,Extreme
+2017-01-01,30,Moderate,Moderate
+2017-02-01,30,No Drought,No Drought
+2017-03-01,30,No Drought,No Drought
+2017-04-01,30,No Drought,No Drought
+2017-05-01,30,No Drought,No Drought
+2017-06-01,30,No Drought,No Drought
+2017-07-01,30,No Drought,No Drought
+2017-08-01,30,No Drought,No Drought
+2017-09-01,30,Extreme,Extreme
+2017-10-01,30,Extreme,Extreme
+2017-11-01,30,Extreme,Extreme
+2017-12-01,30,Extreme,Extreme
+2018-01-01,30,No Drought,No Drought
+2018-02-01,30,No Drought,No Drought
+2018-03-01,30,No Drought,No Drought
+2018-04-01,30,No Drought,No Drought
+2018-05-01,30,No Drought,No Drought
+2018-06-01,30,No Drought,No Drought
+2018-07-01,30,No Drought,No Drought
+2018-08-01,30,No Drought,No Drought
+2018-09-01,30,Extreme,Extreme
+2018-10-01,30,Extreme,Extreme
+2018-11-01,30,Extreme,Extreme
+2018-12-01,30,Extreme,Extreme
+2019-01-01,30,Moderate,Moderate
+2019-02-01,30,No Drought,No Drought
+2019-03-01,30,No Drought,No Drought
+2019-04-01,30,No Drought,No Drought
+2019-05-01,30,No Drought,No Drought
+2019-06-01,30,No Drought,No Drought
+2019-07-01,30,No Drought,No Drought
+2019-08-01,30,No Drought,No Drought
+2019-09-01,30,Extreme,Extreme
+2019-10-01,30,Extreme,Extreme
+2019-11-01,30,Extreme,Extreme
+2019-12-01,30,Extreme,Extreme
+2020-01-01,30,No Drought,Moderate
+2020-02-01,30,No Drought,No Drought
+2020-03-01,30,No Drought,No Drought
+2020-04-01,30,No Drought,No Drought
+2020-05-01,30,No Drought,No Drought
+2020-06-01,30,No Drought,No Drought
+2020-07-01,30,No Drought,No Drought
+2020-08-01,30,No Drought,No Drought
+2020-09-01,30,Extreme,Extreme
+2020-10-01,30,Extreme,Extreme
+2020-11-01,30,Extreme,Extreme
+2020-12-01,30,Moderate,Extreme
+2021-01-01,30,No Drought,No Drought
+2021-02-01,30,No Drought,No Drought
+2021-03-01,30,No Drought,No Drought
+2021-04-01,30,No Drought,No Drought
+2021-05-01,30,No Drought,No Drought
+2021-06-01,30,No Drought,No Drought
+2021-07-01,30,No Drought,No Drought
+2021-08-01,30,No Drought,No Drought
+2021-09-01,30,Moderate,Extreme
+2021-10-01,30,Extreme,Extreme
+2021-11-01,30,Extreme,Extreme
+2021-12-01,30,Moderate,Moderate
+2022-01-01,30,No Drought,No Drought
+2022-02-01,30,No Drought,No Drought
+2022-03-01,30,No Drought,No Drought
+2022-04-01,30,No Drought,No Drought
+2022-05-01,30,No Drought,No Drought
+2022-06-01,30,No Drought,No Drought
+2022-07-01,30,No Drought,No Drought
+2022-08-01,30,No Drought,No Drought
+2022-09-01,30,Extreme,No Drought
+2022-10-01,30,Extreme,Extreme
+2022-11-01,30,Extreme,Extreme
+2022-12-01,30,Moderate,Moderate
+2023-01-01,30,No Drought,No Drought
+2023-02-01,30,No Drought,No Drought
+2023-03-01,30,No Drought,No Drought
+2023-04-01,30,No Drought,No Drought
+2023-05-01,30,No Drought,No Drought
+2023-06-01,30,No Drought,No Drought
+2023-07-01,30,No Drought,No Drought
+2023-08-01,30,No Drought,No Drought
+2023-09-01,30,No Drought,No Drought
+2023-10-01,30,Extreme,Extreme
+2023-11-01,30,Extreme,Extreme
+2023-12-01,30,Extreme,Extreme
+2024-01-01,30,No Drought,Moderate
+2024-02-01,30,No Drought,No Drought
+2024-03-01,30,No Drought,No Drought
+2024-04-01,30,No Drought,No Drought
+2024-05-01,30,No Drought,No Drought
+2024-06-01,30,No Drought,No Drought
+2016-06-01,31,No Drought,No Drought
+2016-07-01,31,No Drought,No Drought
+2016-08-01,31,Extreme,Extreme
+2016-09-01,31,Extreme,Extreme
+2016-10-01,31,Extreme,Extreme
+2016-11-01,31,Extreme,Extreme
+2016-12-01,31,Extreme,Extreme
+2017-01-01,31,Extreme,Extreme
+2017-02-01,31,No Drought,No Drought
+2017-03-01,31,No Drought,No Drought
+2017-04-01,31,No Drought,No Drought
+2017-05-01,31,No Drought,No Drought
+2017-06-01,31,No Drought,No Drought
+2017-07-01,31,No Drought,No Drought
+2017-08-01,31,Moderate,Extreme
+2017-09-01,31,Extreme,Extreme
+2017-10-01,31,Extreme,Extreme
+2017-11-01,31,Extreme,Extreme
+2017-12-01,31,Extreme,Extreme
+2018-01-01,31,Extreme,Extreme
+2018-02-01,31,No Drought,No Drought
+2018-03-01,31,No Drought,No Drought
+2018-04-01,31,No Drought,No Drought
+2018-05-01,31,No Drought,No Drought
+2018-06-01,31,No Drought,No Drought
+2018-07-01,31,Extreme,No Drought
+2018-08-01,31,Extreme,Extreme
+2018-09-01,31,Extreme,Extreme
+2018-10-01,31,Extreme,Extreme
+2018-11-01,31,Extreme,Extreme
+2018-12-01,31,Extreme,Extreme
+2019-01-01,31,Extreme,Extreme
+2019-02-01,31,No Drought,No Drought
+2019-03-01,31,No Drought,No Drought
+2019-04-01,31,No Drought,No Drought
+2019-05-01,31,No Drought,No Drought
+2019-06-01,31,No Drought,No Drought
+2019-07-01,31,No Drought,No Drought
+2019-08-01,31,Moderate,Extreme
+2019-09-01,31,Extreme,Extreme
+2019-10-01,31,Extreme,Extreme
+2019-11-01,31,Extreme,Extreme
+2019-12-01,31,Extreme,Extreme
+2020-01-01,31,Extreme,Extreme
+2020-02-01,31,No Drought,No Drought
+2020-03-01,31,No Drought,No Drought
+2020-04-01,31,No Drought,No Drought
+2020-05-01,31,No Drought,No Drought
+2020-06-01,31,No Drought,No Drought
+2020-07-01,31,No Drought,No Drought
+2020-08-01,31,Moderate,Extreme
+2020-09-01,31,Extreme,Extreme
+2020-10-01,31,Extreme,Extreme
+2020-11-01,31,Extreme,Extreme
+2020-12-01,31,Extreme,Extreme
+2021-01-01,31,Extreme,Extreme
+2021-02-01,31,No Drought,No Drought
+2021-03-01,31,No Drought,No Drought
+2021-04-01,31,No Drought,No Drought
+2021-05-01,31,No Drought,No Drought
+2021-06-01,31,No Drought,No Drought
+2021-07-01,31,No Drought,No Drought
+2021-08-01,31,Moderate,Extreme
+2021-09-01,31,Extreme,Extreme
+2021-10-01,31,Extreme,Extreme
+2021-11-01,31,Extreme,Extreme
+2021-12-01,31,Extreme,Extreme
+2022-01-01,31,Extreme,No Drought
+2022-02-01,31,No Drought,No Drought
+2022-03-01,31,No Drought,No Drought
+2022-04-01,31,No Drought,No Drought
+2022-05-01,31,No Drought,No Drought
+2022-06-01,31,No Drought,No Drought
+2022-07-01,31,No Drought,No Drought
+2022-08-01,31,Moderate,No Drought
+2022-09-01,31,Extreme,Extreme
+2022-10-01,31,Extreme,Extreme
+2022-11-01,31,Extreme,Extreme
+2022-12-01,31,Extreme,Extreme
+2023-01-01,31,Extreme,Extreme
+2023-02-01,31,No Drought,No Drought
+2023-03-01,31,No Drought,No Drought
+2023-04-01,31,No Drought,No Drought
+2023-05-01,31,No Drought,No Drought
+2023-06-01,31,No Drought,No Drought
+2023-07-01,31,No Drought,No Drought
+2023-08-01,31,Extreme,Extreme
+2023-09-01,31,Extreme,Extreme
+2023-10-01,31,Extreme,Extreme
+2023-11-01,31,Extreme,Extreme
+2023-12-01,31,Extreme,Extreme
+2024-01-01,31,Extreme,Extreme
+2024-02-01,31,No Drought,No Drought
+2024-03-01,31,No Drought,No Drought
+2024-04-01,31,No Drought,No Drought
+2024-05-01,31,No Drought,No Drought
+2024-06-01,31,No Drought,No Drought
+2016-06-01,32,No Drought,No Drought
+2016-07-01,32,No Drought,No Drought
+2016-08-01,32,Moderate,No Drought
+2016-09-01,32,Extreme,Extreme
+2016-10-01,32,Extreme,Extreme
+2016-11-01,32,Moderate,Moderate
+2016-12-01,32,Moderate,Moderate
+2017-01-01,32,Moderate,No Drought
+2017-02-01,32,No Drought,No Drought
+2017-03-01,32,No Drought,No Drought
+2017-04-01,32,No Drought,No Drought
+2017-05-01,32,No Drought,No Drought
+2017-06-01,32,No Drought,No Drought
+2017-07-01,32,No Drought,No Drought
+2017-08-01,32,Moderate,No Drought
+2017-09-01,32,Extreme,Extreme
+2017-10-01,32,Moderate,Moderate
+2017-11-01,32,Moderate,Moderate
+2017-12-01,32,No Drought,Moderate
+2018-01-01,32,No Drought,No Drought
+2018-02-01,32,No Drought,No Drought
+2018-03-01,32,No Drought,No Drought
+2018-04-01,32,No Drought,No Drought
+2018-05-01,32,No Drought,No Drought
+2018-06-01,32,No Drought,No Drought
+2018-07-01,32,No Drought,No Drought
+2018-08-01,32,Extreme,No Drought
+2018-09-01,32,Extreme,Extreme
+2018-10-01,32,Moderate,Moderate
+2018-11-01,32,Moderate,Moderate
+2018-12-01,32,Moderate,Moderate
+2019-01-01,32,Moderate,Moderate
+2019-02-01,32,No Drought,No Drought
+2019-03-01,32,No Drought,No Drought
+2019-04-01,32,No Drought,No Drought
+2019-05-01,32,No Drought,No Drought
+2019-06-01,32,No Drought,No Drought
+2019-07-01,32,No Drought,No Drought
+2019-08-01,32,Moderate,Extreme
+2019-09-01,32,Extreme,Extreme
+2019-10-01,32,Extreme,Extreme
+2019-11-01,32,Moderate,Moderate
+2019-12-01,32,No Drought,No Drought
+2020-01-01,32,No Drought,No Drought
+2020-02-01,32,No Drought,No Drought
+2020-03-01,32,No Drought,No Drought
+2020-04-01,32,No Drought,No Drought
+2020-05-01,32,No Drought,No Drought
+2020-06-01,32,No Drought,No Drought
+2020-07-01,32,No Drought,No Drought
+2020-08-01,32,No Drought,No Drought
+2020-09-01,32,Extreme,Extreme
+2020-10-01,32,Extreme,Extreme
+2020-11-01,32,Moderate,Moderate
+2020-12-01,32,Moderate,No Drought
+2021-01-01,32,No Drought,No Drought
+2021-02-01,32,No Drought,No Drought
+2021-03-01,32,No Drought,No Drought
+2021-04-01,32,No Drought,No Drought
+2021-05-01,32,No Drought,No Drought
+2021-06-01,32,No Drought,No Drought
+2021-07-01,32,No Drought,No Drought
+2021-08-01,32,No Drought,No Drought
+2021-09-01,32,Extreme,Extreme
+2021-10-01,32,Moderate,Moderate
+2021-11-01,32,No Drought,Moderate
+2021-12-01,32,Moderate,Moderate
+2022-01-01,32,Moderate,No Drought
+2022-02-01,32,No Drought,No Drought
+2022-03-01,32,No Drought,No Drought
+2022-04-01,32,No Drought,No Drought
+2022-05-01,32,No Drought,No Drought
+2022-06-01,32,No Drought,No Drought
+2022-07-01,32,No Drought,No Drought
+2022-08-01,32,No Drought,No Drought
+2022-09-01,32,Extreme,Extreme
+2022-10-01,32,Extreme,Extreme
+2022-11-01,32,Moderate,Moderate
+2022-12-01,32,No Drought,No Drought
+2023-01-01,32,No Drought,No Drought
+2023-02-01,32,No Drought,No Drought
+2023-03-01,32,No Drought,No Drought
+2023-04-01,32,No Drought,No Drought
+2023-05-01,32,No Drought,No Drought
+2023-06-01,32,No Drought,No Drought
+2023-07-01,32,No Drought,No Drought
+2023-08-01,32,Moderate,No Drought
+2023-09-01,32,Moderate,No Drought
+2023-10-01,32,Extreme,Moderate
+2023-11-01,32,Moderate,Moderate
+2023-12-01,32,No Drought,No Drought
+2024-01-01,32,No Drought,No Drought
+2024-02-01,32,No Drought,No Drought
+2024-03-01,32,No Drought,No Drought
+2024-04-01,32,No Drought,No Drought
+2024-05-01,32,No Drought,No Drought
+2024-06-01,32,No Drought,No Drought
+2016-06-01,33,No Drought,No Drought
+2016-07-01,33,No Drought,No Drought
+2016-08-01,33,No Drought,No Drought
+2016-09-01,33,Extreme,Extreme
+2016-10-01,33,Extreme,Extreme
+2016-11-01,33,Moderate,Moderate
+2016-12-01,33,Moderate,Moderate
+2017-01-01,33,Moderate,No Drought
+2017-02-01,33,No Drought,No Drought
+2017-03-01,33,No Drought,No Drought
+2017-04-01,33,No Drought,No Drought
+2017-05-01,33,No Drought,No Drought
+2017-06-01,33,No Drought,No Drought
+2017-07-01,33,No Drought,No Drought
+2017-08-01,33,No Drought,No Drought
+2017-09-01,33,Extreme,Extreme
+2017-10-01,33,Moderate,Extreme
+2017-11-01,33,No Drought,Moderate
+2017-12-01,33,No Drought,Moderate
+2018-01-01,33,No Drought,No Drought
+2018-02-01,33,No Drought,No Drought
+2018-03-01,33,No Drought,No Drought
+2018-04-01,33,No Drought,No Drought
+2018-05-01,33,No Drought,No Drought
+2018-06-01,33,No Drought,No Drought
+2018-07-01,33,No Drought,No Drought
+2018-08-01,33,Extreme,No Drought
+2018-09-01,33,Extreme,Extreme
+2018-10-01,33,Extreme,Extreme
+2018-11-01,33,Moderate,Moderate
+2018-12-01,33,Moderate,Moderate
+2019-01-01,33,Moderate,No Drought
+2019-02-01,33,No Drought,No Drought
+2019-03-01,33,No Drought,No Drought
+2019-04-01,33,No Drought,No Drought
+2019-05-01,33,No Drought,No Drought
+2019-06-01,33,No Drought,No Drought
+2019-07-01,33,No Drought,No Drought
+2019-08-01,33,No Drought,No Drought
+2019-09-01,33,Extreme,Extreme
+2019-10-01,33,Extreme,Extreme
+2019-11-01,33,Extreme,Moderate
+2019-12-01,33,Moderate,Moderate
+2020-01-01,33,No Drought,No Drought
+2020-02-01,33,No Drought,No Drought
+2020-03-01,33,No Drought,No Drought
+2020-04-01,33,No Drought,No Drought
+2020-05-01,33,No Drought,No Drought
+2020-06-01,33,No Drought,No Drought
+2020-07-01,33,No Drought,No Drought
+2020-08-01,33,No Drought,No Drought
+2020-09-01,33,Extreme,Extreme
+2020-10-01,33,Extreme,Extreme
+2020-11-01,33,Moderate,Moderate
+2020-12-01,33,Moderate,No Drought
+2021-01-01,33,No Drought,No Drought
+2021-02-01,33,No Drought,No Drought
+2021-03-01,33,No Drought,No Drought
+2021-04-01,33,No Drought,No Drought
+2021-05-01,33,No Drought,No Drought
+2021-06-01,33,No Drought,No Drought
+2021-07-01,33,No Drought,No Drought
+2021-08-01,33,No Drought,No Drought
+2021-09-01,33,Extreme,Extreme
+2021-10-01,33,Extreme,Extreme
+2021-11-01,33,Moderate,Moderate
+2021-12-01,33,Moderate,Moderate
+2022-01-01,33,Moderate,No Drought
+2022-02-01,33,No Drought,No Drought
+2022-03-01,33,No Drought,No Drought
+2022-04-01,33,No Drought,No Drought
+2022-05-01,33,No Drought,No Drought
+2022-06-01,33,No Drought,No Drought
+2022-07-01,33,No Drought,No Drought
+2022-08-01,33,No Drought,No Drought
+2022-09-01,33,Extreme,Extreme
+2022-10-01,33,Extreme,Extreme
+2022-11-01,33,Moderate,Moderate
+2022-12-01,33,No Drought,No Drought
+2023-01-01,33,No Drought,No Drought
+2023-02-01,33,No Drought,No Drought
+2023-03-01,33,No Drought,No Drought
+2023-04-01,33,No Drought,No Drought
+2023-05-01,33,No Drought,No Drought
+2023-06-01,33,No Drought,No Drought
+2023-07-01,33,No Drought,No Drought
+2023-08-01,33,No Drought,No Drought
+2023-09-01,33,No Drought,No Drought
+2023-10-01,33,Moderate,Extreme
+2023-11-01,33,Moderate,Moderate
+2023-12-01,33,No Drought,No Drought
+2024-01-01,33,No Drought,No Drought
+2024-02-01,33,No Drought,No Drought
+2024-03-01,33,No Drought,No Drought
+2024-04-01,33,No Drought,No Drought
+2024-05-01,33,No Drought,No Drought
+2024-06-01,33,No Drought,No Drought
+2016-06-01,34,No Drought,No Drought
+2016-07-01,34,No Drought,No Drought
+2016-08-01,34,No Drought,No Drought
+2016-09-01,34,Extreme,Extreme
+2016-10-01,34,Extreme,Extreme
+2016-11-01,34,Moderate,Moderate
+2016-12-01,34,Moderate,Moderate
+2017-01-01,34,Moderate,No Drought
+2017-02-01,34,No Drought,No Drought
+2017-03-01,34,No Drought,No Drought
+2017-04-01,34,No Drought,No Drought
+2017-05-01,34,No Drought,No Drought
+2017-06-01,34,No Drought,No Drought
+2017-07-01,34,No Drought,No Drought
+2017-08-01,34,No Drought,No Drought
+2017-09-01,34,Extreme,Extreme
+2017-10-01,34,Moderate,Moderate
+2017-11-01,34,No Drought,Moderate
+2017-12-01,34,No Drought,Moderate
+2018-01-01,34,No Drought,No Drought
+2018-02-01,34,No Drought,No Drought
+2018-03-01,34,No Drought,No Drought
+2018-04-01,34,No Drought,No Drought
+2018-05-01,34,No Drought,No Drought
+2018-06-01,34,No Drought,No Drought
+2018-07-01,34,No Drought,No Drought
+2018-08-01,34,Extreme,No Drought
+2018-09-01,34,Extreme,Extreme
+2018-10-01,34,Moderate,Moderate
+2018-11-01,34,Moderate,Moderate
+2018-12-01,34,Moderate,Moderate
+2019-01-01,34,Moderate,No Drought
+2019-02-01,34,No Drought,No Drought
+2019-03-01,34,No Drought,No Drought
+2019-04-01,34,No Drought,No Drought
+2019-05-01,34,No Drought,No Drought
+2019-06-01,34,No Drought,No Drought
+2019-07-01,34,No Drought,No Drought
+2019-08-01,34,No Drought,No Drought
+2019-09-01,34,Extreme,Extreme
+2019-10-01,34,Extreme,Extreme
+2019-11-01,34,Moderate,Moderate
+2019-12-01,34,No Drought,Moderate
+2020-01-01,34,No Drought,No Drought
+2020-02-01,34,No Drought,No Drought
+2020-03-01,34,No Drought,No Drought
+2020-04-01,34,No Drought,No Drought
+2020-05-01,34,No Drought,No Drought
+2020-06-01,34,No Drought,No Drought
+2020-07-01,34,No Drought,No Drought
+2020-08-01,34,No Drought,No Drought
+2020-09-01,34,Extreme,Extreme
+2020-10-01,34,Extreme,Extreme
+2020-11-01,34,Moderate,Moderate
+2020-12-01,34,Moderate,No Drought
+2021-01-01,34,No Drought,No Drought
+2021-02-01,34,No Drought,No Drought
+2021-03-01,34,No Drought,No Drought
+2021-04-01,34,No Drought,No Drought
+2021-05-01,34,No Drought,No Drought
+2021-06-01,34,No Drought,No Drought
+2021-07-01,34,No Drought,No Drought
+2021-08-01,34,No Drought,No Drought
+2021-09-01,34,Extreme,Extreme
+2021-10-01,34,Moderate,Extreme
+2021-11-01,34,Moderate,Moderate
+2021-12-01,34,Moderate,Moderate
+2022-01-01,34,Moderate,No Drought
+2022-02-01,34,No Drought,No Drought
+2022-03-01,34,No Drought,No Drought
+2022-04-01,34,No Drought,No Drought
+2022-05-01,34,No Drought,No Drought
+2022-06-01,34,No Drought,No Drought
+2022-07-01,34,No Drought,No Drought
+2022-08-01,34,No Drought,No Drought
+2022-09-01,34,Extreme,Extreme
+2022-10-01,34,Extreme,Extreme
+2022-11-01,34,Moderate,Moderate
+2022-12-01,34,No Drought,No Drought
+2023-01-01,34,No Drought,No Drought
+2023-02-01,34,No Drought,No Drought
+2023-03-01,34,No Drought,No Drought
+2023-04-01,34,No Drought,No Drought
+2023-05-01,34,No Drought,No Drought
+2023-06-01,34,No Drought,No Drought
+2023-07-01,34,No Drought,No Drought
+2023-08-01,34,No Drought,No Drought
+2023-09-01,34,No Drought,No Drought
+2023-10-01,34,Moderate,Moderate
+2023-11-01,34,Moderate,Moderate
+2023-12-01,34,No Drought,No Drought
+2024-01-01,34,No Drought,No Drought
+2024-02-01,34,No Drought,No Drought
+2024-03-01,34,No Drought,No Drought
+2024-04-01,34,No Drought,No Drought
+2024-05-01,34,No Drought,No Drought
+2024-06-01,34,No Drought,No Drought
